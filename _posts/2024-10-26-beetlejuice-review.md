@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beetlejuice
+title: Beetlejuice Review
 categories:
 - Movie
 - Review
