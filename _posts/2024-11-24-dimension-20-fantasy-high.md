@@ -35,14 +35,14 @@ Brennan Lee Mulligan, amazing at this as he is, created his own world. This worl
 ![Fig Faeth](/assets/img/posts/dimension-20-fantasy-high/fig_faeth.jpg){: width="400"}
 _Fig Faeth on her bed with her guitar_
 
-Fig is a Tiefling Bard (again, not that really that important) that thought she was an elf until her horns sprouted, sending her parents, [Gilear](#gilear-faeth) and her mom who's not that important, to divorce. Her mom cheated on Gilear with a demon who she wants to (and eventually does) find. Fig constantly rebels because of her moms betrayal. She is played by Emily, who is absolutely hilarious.
+Fig is a Tiefling Bard (again, not that really that important) that thought she was an elf until her horns sprouted, sending her parents, [Gilear](#gilear-faeth) and her mom who's not that important, to divorce. Her mom cheated on Gilear with a demon who she wants to (and eventually does) find. Fig constantly rebels because of her mom's betrayal. She is played by Emily, who is absolutely hilarious.
 
 ### Fabian Seacaster
 
 ![Fabian Seacaster](/assets/img/posts/dimension-20-fantasy-high/fabian_seacaster.jpg){: width="400"}
 _Fabian Seacaster practicing his swordsmanship_
 
-Fabian is a Half-Elf Fighter who is defined by his dad, [Bill Seacaster](#bill-seacaster), a pirate through and through. Arr ye see Bill Seacaster be very strong and infamous captain at that. His dad dies eventually, by Fabians sword. It is crazy because this happens in like one of the last episodes and it was kind of foreshadowed earlier because Bill said he killed his father too. And Fabian has his eye taken from its socket where shortly after he gets his fathers eye-patch. It is all incredibly cool and, if you haven't seen it then you should not be reading this and instead watching the show because there are bigger spoilers yet to come.
+Fabian is a Half-Elf Fighter who is defined by his dad, [Bill Seacaster](#bill-seacaster), a pirate through and through. Arr ye see Bill Seacaster be very strong and infamous captain at that. His dad dies eventually, by Fabian's sword. It is crazy because this happens in like one of the last episodes and it was kind of foreshadowed earlier because Bill said he killed his father too. And Fabian has his eye taken from its socket where shortly after he gets his fathers eye-patch. It is all incredibly cool and, if you haven't seen it then you should not be reading this and instead watching the show because there are bigger spoilers yet to come.
 
 ### Gorgug Thistlespring
 
@@ -56,14 +56,14 @@ Gorgug is a Half-Orc Barbarian that has adopted gnome parents, so his parents li
 ![Adaine Abernant](/assets/img/posts/dimension-20-fantasy-high/adaine_abernant.jpg){: width="400"}
 _Adaine Abernant having breakfast with her family_
 
-Adaine Abernant is a Elf Wizard. She is the daughter of an ambassador and she hates it. Her older sister got into the fancy school she couldn't get into and that is why she has to go to Aguefort Adventuring Academy. Her sister could do no wrong in her parents eyes, and she despises them for that. After it is later revealed that her sister was going to parties and drinking and doing drugs they just tell her Adaine that it can't be true. Even when it is revealed that Aelwyn (Adaines sister) is part of a cult, they still release her from prison and flee.
+Adaine Abernant is a Elf Wizard. She is the daughter of an ambassador and she hates it. Her older sister got into the fancy school she couldn't get into and that is why she has to go to Aguefort Adventuring Academy. Her sister could do no wrong in her parents eyes, and she despises them for that. After it is later revealed that her sister was going to parties and drinking and doing drugs they just tell her Adaine that it can't be true. Even when it is revealed that Aelwyn (Adaine's sister) is part of a cult, they still release her from prison and flee.
 
 ### Riz Guggak
 
 ![Riz Gukgak](/assets/img/posts/dimension-20-fantasy-high/riz_gukgak.jpg){: width="400"}
 _Riz Gukgak with a cup of coffee in his hand_
 
-Riz is an unlicensed (eventually licensed) detective that is investigating some girls that disappeared. Rizs mother is a police officer and one of the best allies of the party. His mom helps them defeat the big bad and there are a ton of other little things his mom does for the party. In one of the first episodes Riz gets bullied and gets thrown into a waste basket and called The Ball. This nickname sticks and [Fabian](#fabian-seacaster) calls him this exclusively for the rest of time.
+Riz is an unlicensed (eventually licensed) detective that is investigating some girls that disappeared. Riz's mother is a police officer and one of the best allies of the party. His mom helps them defeat the big bad and there are a ton of other little things his mom does for the party. In one of the first episodes Riz gets bullied and gets thrown into a waste basket and called The Ball. This nickname sticks and [Fabian](#fabian-seacaster) calls him this exclusively for the rest of time.
 
 ### Kristen Applebees
 
@@ -84,7 +84,7 @@ She also has the spell Spirit Guardians who represent the person's beliefs and b
 ![Arthur Aguefort](/assets/img/posts/dimension-20-fantasy-high/arthur_aguefort.jpg){: width="400"}
 _Arthur Aguefort_
 
-Aguefort is the Principal of the Aguefort Adventuring Academy, surprisingly (to no-one). He is amazing as he does NOT make any sense. Like I've already mentioned with [Gorgug](#gorgug-thistlespring) and his response to Gorgugs signature question. Also in one of the first episodes killing Mr. Gibbons and himself to give life back to the party members that died. That was a big shocker for everyone, including Lou who freaked the fuck out, as did I.
+Aguefort is the Principal of the Aguefort Adventuring Academy, surprisingly (to no-one). He is amazing as he does NOT make any sense. Like I've already mentioned with [Gorgug](#gorgug-thistlespring) and his response to Gorgug's signature question. Also in one of the first episodes killing Mr. Gibbons and himself to give life back to the party members that died. That was a big shocker for everyone, including Lou who freaked the fuck out, as did I.
 
 ### Bill Seacaster
 

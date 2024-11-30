@@ -127,7 +127,7 @@ Lenses are made of glass and can be used by Oculators to do a variety of differe
 
 **Glass**: Green
 
-**Use**: Can make bursts of wind emanate from the Oculators face.
+**Use**: Can make bursts of wind emanate from the Oculator's face.
 
 ### Voidstormer's Lenses
 

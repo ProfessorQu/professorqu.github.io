@@ -11,7 +11,7 @@ tags:
 description: 'A review or ramblings about Mistborn: The Final Empire'
 image:
   path: "/assets/img/posts/mistborn-the-final-empire/preview.jpg"
-  alt: https://wallpaperwaifu.com/fantasy/mistborn-the-final-empire-live-wallpaper/
+  alt: Vin and Kelsier atop a roof in Luthadel
 date: 2024-11-23 21:41 +0100
 ---
 What an amazing book! The twists and turns are amazing and I loved it! I highly recommend to read this book.
@@ -23,7 +23,7 @@ Some background, I have read this book multiple times before. Or, the very begin
 
 ## Worldbuilding
 
-The worldbuilding is amazing, most things are not really explained explicitly but can be inferred by the reader. I can't recall exactly if this is true but I don't remember reading an explanation about the Lord Ruler being the most powerful, highest authority. But to be honest, with a name like Lord Ruler, what else could he have been? People are called by their names and that is your introduction to them. Some characters are sometimes mentioned and given names, like Kelsiers trainer, but never appear as "full" characters.
+The worldbuilding is amazing, most things are not really explained explicitly but can be inferred by the reader. I can't recall exactly if this is true but I don't remember reading an explanation about the Lord Ruler being the most powerful, highest authority. But to be honest, with a name like Lord Ruler, what else could he have been? People are called by their names and that is your introduction to them. Some characters are sometimes mentioned and given names, like Kelsier's trainer, but never appear as "full" characters.
 
 The world seems incredibly full and intricate, we are figuring stuff out alongside one of the characters or we're expected to know these things. It is an amazing way to tell a story I think, it's almost as if you're a member of this world. As if you are there, fighting and wondering and courting right alongside the characters.
 
@@ -40,14 +40,14 @@ Anyway, people that are specialized in one type of metal, because they can only 
 The main character at the start is Kelsier, he is introduced from the perspective of a plantation skaa that returns later in the book. He is the one that starts of the entire book, basically the one that drives the entire plot forward.
 
 ![Kelsier](/assets/img/posts/mistborn-the-final-empire/kelsier.jpg)
-_https://mistborn.fandom.com/wiki/Kelsier_
+_Kelsier walking in the mists_
 
-He survived the Pits of Hathsin, a place where the Lord Ruler sends people to die. He is half-skaa, meaning he had noble blood in him and he Snapped in those Pits, becoming a Mistborn. He plans to overthrow the Lord Ruler and destroy him. He does this by, and this is a major spoiler so beware. He dies by the Lord Rulers hand after becoming incredibly famous among the skaa and after killing one of the Lord Rulers Steel Inquisitors. These Steel Inquisitors are Mistborn that are made from Mistings using some terrifying process as they have multiple spikes hammered through their body, including their eyes.
+He survived the Pits of Hathsin, a place where the Lord Ruler sends people to die. He is half-skaa, meaning he had noble blood in him and he Snapped in those Pits, becoming a Mistborn. He plans to overthrow the Lord Ruler and destroy him. He does this by, and this is a major spoiler so beware. He dies by the Lord Ruler's hand after becoming incredibly famous among the skaa and after killing one of the Lord Ruler's Steel Inquisitors. These Steel Inquisitors are Mistborn that are made from Mistings using some terrifying process as they have multiple spikes hammered through their body, including their eyes.
 
 ### Vin
 
 ![Vin](/assets/img/posts/mistborn-the-final-empire/vin.jpg)
-_https://mistborn.fandom.com/wiki/Vin_
+_Vin_
 
 After a little bit we're introduced to Vin, a street urchin that lived her entire life going from criminal crew to crew. She was thought by her brother Reen who told her that everyone would betray her, don't trust anybody. Reen beat Vin too, it wasn't the greatest relationship and during the book Reens whispers haunt Vin. When Kelsier finds out that Vin is a Mistborn he recruits her to help overthrow the Lord Ruler and during this time she has trouble grasping the concept of trust because of Reens teachings. After a while she does learn to trust though.
 
@@ -57,7 +57,7 @@ The crew consists of a few Mistings that are the boss of some Mistings that serv
 
 ## Conclusion
 
-I loved the book, it was very fun to read and has just enough that you are surprised each time something happens. Like, big spoilers again, the Lord Ruler being Rashek?? That was a crazy revelation. The journal they had was of the Hero of Ages but not of the Lord Ruler. During the entirety of the book I kept wondering: "What happened that caused the Lord Ruler to become what he is?". And then it clicked after that revelation, he didn't the Hero of Ages never became the Lord Ruler.
+I loved the book, it was very fun to read and has just enough that you are surprised each time something happens. Like, big spoilers again, the Lord Ruler being Rashek?? That was a crazy revelation. The journal they had was of the Hero of Ages but not of the Lord Ruler. During the entirety of the book I kept wondering: "What happened that caused the Lord Ruler to become what he is?". And then it clicked after that revelation, he didn't. The Hero of Ages never became the Lord Ruler.
 
 Another question I still have is: "Where did Allomancy come from?". They mention that it doesn't occur in the journal. I think that the Lord Ruler became the first Allomancer and then passed his genes on, but I don't particularly know if this is true because this way there could be some dormant genes that allowed someone to be a Allomancer and Ferruchemist at once because he is both and both are genetic. And because the Lord Ruler oppresses his own people for the sole reason of not creating a child that could challenge him I assume that he wouldn't take the risk by having children himself.
 
