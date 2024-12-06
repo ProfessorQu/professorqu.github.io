@@ -11,7 +11,7 @@ tags:
 description: 'A review or ramblings about Mistborn: The Well of Ascension'
 image:
   path: "/assets/img/posts/mistborn-the-well-of-ascension/preview.jpg"
-  alt: https://www.pinterest.com/pin/421860690092016344/
+  alt: Vin standing over defeated koloss
 date: 2024-11-30 15:21 +0100
 ---
 Well here we are again, with book two of Mistborn. This one was a blast. I think I liked it a bit less than the first one, but it was still very entertaining. There are so many things to talk about so let's quickly get started.
