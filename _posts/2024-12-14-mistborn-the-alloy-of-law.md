@@ -43,25 +43,25 @@ Feruchemy is way more present, after some inbreeding between the Terris people a
 
 ### Atium Compounder
 
-<img src="/assets/img/posts/mistborn-the-alloy-of-law/atium.svg" width="250">
+<img alt="Atium Symbol" src="/assets/img/posts/mistborn-the-alloy-of-law/atium.svg" width="250">
 
 I would now like to speculate on Compounding some other metals as I think it'll be fun. Let's look at atium, maybe the most powerful metal. A Feruchemist could store youth in it. If a Compounder could get his hands on a steady supply of atium (Harmony know how) he could stay young forever. He could also burn the atium for a great advantage in many situations. This person would be incredibly powerful and dangerous not because of their raw strength, but because of their meticilous planning and insight.
 
 ### Steel Compounder
 
-<img src="/assets/img/posts/mistborn-the-alloy-of-law/steel.svg" width="250">
+<img alt="Steel Symbol" src="/assets/img/posts/mistborn-the-alloy-of-law/steel.svg" width="250">
 
 Steel is a lot easier to get your hands on and is a very powerful Feruchemical as well as Allomantic metal. It can store speed and can be used to Push metal. Both are very good seperately but Compounding it would be insane as one could just be in an almost perpetual state of incredible speed. There would be very few people who would be able to stand their ground against someone who could strike them 20 times before you could even react. Not to mention the added ability of Pushing metals as weapons.
 
 ### Gold Compounder
 
-<img src="/assets/img/posts/mistborn-the-alloy-of-law/gold.svg" width="250">
+<img alt="Gold Symbol" src="/assets/img/posts/mistborn-the-alloy-of-law/gold.svg" width="250">
 
 As I said, Miles Compounds gold and he is insanely OP because of it. Unkillable, able to heal from any injury. He survived basically everything and his only fear is getting captured, because then he is in actual danger. If the choice comes between diving off of a cliff or getting captured, then diving off is probably better. It is also mentioned that Miles doesn't feel any pain anymore after all the times he got blown up, shot, stabbed and everything in between. I was wondering about that as I think it would hurt but after enough time it seems the body gets used to it.
 
 ### Pewter Compounder
 
-<img src="/assets/img/posts/mistborn-the-alloy-of-law/pewter.svg" width="250">
+<img alt="Pewter Symbol" src="/assets/img/posts/mistborn-the-alloy-of-law/pewter.svg" width="250">
 
 Storing strength and then gaining a tenfold return plus the ability to burn pewter? That is not a fight many could even dream of winning. It would just be a hulking brute and if they became a Savant they would have little fatigue and could heal faster. The Compounder would literally just be a walking, talking tank. They could destroy so much with ease and stop a moving train. There is also the mention of koloss-blooded people who don't stop growing but seem to be more intelligent and aware than koloss in the first book. If a koloss-blooded person where to be born that is also a Pewterarm and a pewter Feruchemist there is nothing they couldn't do with brute force.
 
