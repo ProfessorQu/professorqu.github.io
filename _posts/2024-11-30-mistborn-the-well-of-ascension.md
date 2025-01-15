@@ -8,6 +8,7 @@ tags:
 - Book
 - Fantasy
 - Mistborn
+- Cosmere
 description: 'A review or ramblings about Mistborn: The Well of Ascension'
 image:
   path: "/assets/img/posts/mistborn-the-well-of-ascension/preview.jpg"

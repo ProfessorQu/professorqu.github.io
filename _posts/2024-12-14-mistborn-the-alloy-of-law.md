@@ -8,6 +8,7 @@ tags:
 - Book
 - Fantasy
 - Mistborn
+- Cosmere
 description: 'Ramblings about Mistborn: The Alloy of Law'
 image:
   path: "/assets/img/posts/mistborn-the-alloy-of-law/preview.jpg"

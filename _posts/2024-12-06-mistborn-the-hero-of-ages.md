@@ -8,6 +8,7 @@ tags:
 - Book
 - Fantasy
 - Mistborn
+- Cosmere
 description: 'My thoughts about Mistborn: The Hero of Ages'
 image:
   path: "/assets/img/posts/mistborn-the-hero-of-ages/preview.jpg"

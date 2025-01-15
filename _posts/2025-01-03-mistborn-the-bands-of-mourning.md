@@ -8,6 +8,7 @@ tags:
 - Book
 - Fantasy
 - Mistborn
+- Cosmere
 description: 'My thoughts on Mistborn: The Bands of Mourning'
 image:
   path: "/assets/img/posts/mistborn-the-bands-of-mourning/preview.jpg"

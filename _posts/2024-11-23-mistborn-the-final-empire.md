@@ -8,6 +8,7 @@ tags:
 - Book
 - Fantasy
 - Mistborn
+- Cosmere
 description: 'A review or ramblings about Mistborn: The Final Empire'
 image:
   path: "/assets/img/posts/mistborn-the-final-empire/preview.jpg"

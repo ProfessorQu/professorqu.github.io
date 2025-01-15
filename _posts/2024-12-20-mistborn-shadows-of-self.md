@@ -8,6 +8,7 @@ tags:
 - Book
 - Fantasy
 - Mistborn
+- Cosmere
 description: 'My thoughts on Mistborn: Shadows of Self'
 image:
   path: "/assets/img/posts/mistborn-shadows-of-self/preview.jpg"

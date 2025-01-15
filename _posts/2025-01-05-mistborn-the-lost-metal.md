@@ -8,6 +8,7 @@ tags:
 - Book
 - Fantasy
 - Mistborn
+- Cosmere
 description: 'My thoughts on Mistborn: The Lost Metal'
 image:
   path: "/assets/img/posts/mistborn-the-lost-metal/preview.jpg"
