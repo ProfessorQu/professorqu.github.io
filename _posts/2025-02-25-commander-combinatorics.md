@@ -15,7 +15,7 @@ image:
   alt: Some random math
 date: 2025-02-25 21:37 +0100
 ---
-In this article I will calculate how many possible combinations of cards could be in the command zone. To do this I will use math and combinatorics together with [Scryfall](https:is//scryfall.com).
+In this article I will calculate how many possible combinations of cards could be in the command zone. To do this I will use math and combinatorics together with [Scryfall](https://scryfall.com/).
 
 ## Single Commanders
 
