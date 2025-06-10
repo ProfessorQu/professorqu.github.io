@@ -7,7 +7,6 @@ categories:
 tags:
 - Magic the Gathering
 - Commander
-- Decklist
 description: A calculation of the number of possible decks.
 math: true
 image:
