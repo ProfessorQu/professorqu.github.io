@@ -1,5 +1,5 @@
 ---
-title: How to create Jekyll Tags
+title: How I Customized the Chirpy Theme
 categories:
 - Technical
 - Website
