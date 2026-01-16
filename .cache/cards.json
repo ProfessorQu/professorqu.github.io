@@ -1,0 +1,1352 @@
+{
+  "dynaheir, invoker adept": {
+    "name": "Dynaheir, Invoker Adept",
+    "scryfall_uri": "https://scryfall.com/card/clb/273/dynaheir-invoker-adept?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/3/c301b389-d802-4a8b-8681-9b50c8667423.jpg?1756759583",
+    "image_large": "https://cards.scryfall.io/large/front/c/3/c301b389-d802-4a8b-8681-9b50c8667423.jpg?1756759583"
+  },
+  "rukarumel, biologist": {
+    "name": "Rukarumel, Biologist",
+    "scryfall_uri": "https://scryfall.com/card/cmm/711/rukarumel-biologist?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/b/0b2f7397-9d75-4667-8872-e58a39512583.jpg?1691497909",
+    "image_large": "https://cards.scryfall.io/large/front/0/b/0b2f7397-9d75-4667-8872-e58a39512583.jpg?1691497909"
+  },
+  "defiant vanguard": {
+    "name": "Defiant Vanguard",
+    "scryfall_uri": "https://scryfall.com/card/tsb/5/defiant-vanguard?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/3/a37acadc-0e58-4f44-93f4-dd465b9ee06f.jpg?1562781502",
+    "image_large": "https://cards.scryfall.io/large/front/a/3/a37acadc-0e58-4f44-93f4-dd465b9ee06f.jpg?1562781502"
+  },
+  "lin sivvi, defiant hero": {
+    "name": "Lin Sivvi, Defiant Hero",
+    "scryfall_uri": "https://scryfall.com/card/nem/12/lin-sivvi-defiant-hero?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/5/e574e522-2632-4cd4-8545-c582ac3b641f.jpg?1562632572",
+    "image_large": "https://cards.scryfall.io/large/front/e/5/e574e522-2632-4cd4-8545-c582ac3b641f.jpg?1562632572"
+  },
+  "blightspeaker": {
+    "name": "Blightspeaker",
+    "scryfall_uri": "https://scryfall.com/card/tsr/103/blightspeaker?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/7/17ab3455-f464-41b0-ac63-d40d27abbfb1.jpg?1619395094",
+    "image_large": "https://cards.scryfall.io/large/front/1/7/17ab3455-f464-41b0-ac63-d40d27abbfb1.jpg?1619395094"
+  },
+  "defiant falcon": {
+    "name": "Defiant Falcon",
+    "scryfall_uri": "https://scryfall.com/card/nem/6/defiant-falcon?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/c/4c80032b-daeb-4661-9a66-61abe9d12ddd.jpg?1562629779",
+    "image_large": "https://cards.scryfall.io/large/front/4/c/4c80032b-daeb-4661-9a66-61abe9d12ddd.jpg?1562629779"
+  },
+  "ramosian sky marshal": {
+    "name": "Ramosian Sky Marshal",
+    "scryfall_uri": "https://scryfall.com/card/mmq/40/ramosian-sky-marshal?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/6/16638976-8a78-4233-8ebc-42ea9bb49e0a.jpg?1562379425",
+    "image_large": "https://cards.scryfall.io/large/front/1/6/16638976-8a78-4233-8ebc-42ea9bb49e0a.jpg?1562379425"
+  },
+  "arcane adaptation": {
+    "name": "Arcane Adaptation",
+    "scryfall_uri": "https://scryfall.com/card/xln/46/arcane-adaptation?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/f/bf3edaaf-cf63-4e17-94ae-9d9991d9fb5f.jpg?1562563280",
+    "image_large": "https://cards.scryfall.io/large/front/b/f/bf3edaaf-cf63-4e17-94ae-9d9991d9fb5f.jpg?1562563280"
+  },
+  "conspiracy": {
+    "name": "Conspiracy",
+    "scryfall_uri": "https://scryfall.com/card/tsb/39/conspiracy?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/b/8bbdb402-0e22-4f83-987a-9d0268a82f10.jpg?1562779616",
+    "image_large": "https://cards.scryfall.io/large/front/8/b/8bbdb402-0e22-4f83-987a-9d0268a82f10.jpg?1562779616"
+  },
+  "leyline of transformation": {
+    "name": "Leyline of Transformation",
+    "scryfall_uri": "https://scryfall.com/card/dsk/63/leyline-of-transformation?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/b/4bd941ca-f3d2-44c1-8df3-851362f6b848.jpg?1726286087",
+    "image_large": "https://cards.scryfall.io/large/front/4/b/4bd941ca-f3d2-44c1-8df3-851362f6b848.jpg?1726286087"
+  },
+  "maskwood nexus": {
+    "name": "Maskwood Nexus",
+    "scryfall_uri": "https://scryfall.com/card/clb/865/maskwood-nexus?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/2/1246c42d-57c0-4cba-959a-15ad89d8a50b.jpg?1674142652",
+    "image_large": "https://cards.scryfall.io/large/front/1/2/1246c42d-57c0-4cba-959a-15ad89d8a50b.jpg?1674142652"
+  },
+  "emiel the blessed": {
+    "name": "Emiel the Blessed",
+    "scryfall_uri": "https://scryfall.com/card/2x2/10/emiel-the-blessed?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/f/0f594562-7e9f-47e6-a033-fb70e3cf1e10.jpg?1673146967",
+    "image_large": "https://cards.scryfall.io/large/front/0/f/0f594562-7e9f-47e6-a033-fb70e3cf1e10.jpg?1673146967"
+  },
+  "intruder alarm": {
+    "name": "Intruder Alarm",
+    "scryfall_uri": "https://scryfall.com/card/8ed/86/intruder-alarm?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/d/8d62468e-ed9d-4932-bbbd-103b33b98b25.jpg?1562923566",
+    "image_large": "https://cards.scryfall.io/large/front/8/d/8d62468e-ed9d-4932-bbbd-103b33b98b25.jpg?1562923566"
+  },
+  "kiki-jiki, mirror breaker": {
+    "name": "Kiki-Jiki, Mirror Breaker",
+    "scryfall_uri": "https://scryfall.com/card/ima/136/kiki-jiki-mirror-breaker?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1562852476",
+    "image_large": "https://cards.scryfall.io/large/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1562852476"
+  },
+  "timestream navigator": {
+    "name": "Timestream Navigator",
+    "scryfall_uri": "https://scryfall.com/card/lcc/178/timestream-navigator?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/8/086afafe-6b6c-4a54-8ce7-0040295d309c.jpg?1698988202",
+    "image_large": "https://cards.scryfall.io/large/front/0/8/086afafe-6b6c-4a54-8ce7-0040295d309c.jpg?1698988202"
+  },
+  "emiel, the blessed": {
+    "name": "Emiel the Blessed",
+    "scryfall_uri": "https://scryfall.com/card/2x2/10/emiel-the-blessed?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/f/0f594562-7e9f-47e6-a033-fb70e3cf1e10.jpg?1673146967",
+    "image_large": "https://cards.scryfall.io/large/front/0/f/0f594562-7e9f-47e6-a033-fb70e3cf1e10.jpg?1673146967"
+  },
+  "village bell-ringer": {
+    "name": "Village Bell-Ringer",
+    "scryfall_uri": "https://scryfall.com/card/moc/216/village-bell-ringer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/7/b72b39fd-507d-432b-b5b0-5657e5ed0a47.jpg?1682208702",
+    "image_large": "https://cards.scryfall.io/large/front/b/7/b72b39fd-507d-432b-b5b0-5657e5ed0a47.jpg?1682208702"
+  },
+  "pestermite": {
+    "name": "Pestermite",
+    "scryfall_uri": "https://scryfall.com/card/mma/59/pestermite?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/5/b58a6a63-c7d8-4f2f-acaf-b0a871eb5a7c.jpg?1561968098",
+    "image_large": "https://cards.scryfall.io/large/front/b/5/b58a6a63-c7d8-4f2f-acaf-b0a871eb5a7c.jpg?1561968098"
+  },
+  "demonic tutor": {
+    "name": "Demonic Tutor",
+    "scryfall_uri": "https://scryfall.com/card/cmm/150/demonic-tutor?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1763472867",
+    "image_large": "https://cards.scryfall.io/large/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1763472867"
+  },
+  "vampiric tutor": {
+    "name": "Vampiric Tutor",
+    "scryfall_uri": "https://scryfall.com/card/dmr/108/vampiric-tutor?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.jpg?1675199860",
+    "image_large": "https://cards.scryfall.io/large/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.jpg?1675199860"
+  },
+  "eladamri's call": {
+    "name": "Eladamri's Call",
+    "scryfall_uri": "https://scryfall.com/card/mh1/197/eladamris-call?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300",
+    "image_large": "https://cards.scryfall.io/large/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300"
+  },
+  "imperial recruiter": {
+    "name": "Imperial Recruiter",
+    "scryfall_uri": "https://scryfall.com/card/mh2/281/imperial-recruiter?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.jpg?1626100528",
+    "image_large": "https://cards.scryfall.io/large/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.jpg?1626100528"
+  },
+  "benevolent bodyguard": {
+    "name": "Benevolent Bodyguard",
+    "scryfall_uri": "https://scryfall.com/card/ema/4/benevolent-bodyguard?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/4/241e5c4e-0f0b-4a3f-91e0-87387a11e81e.jpg?1580013621",
+    "image_large": "https://cards.scryfall.io/large/front/2/4/241e5c4e-0f0b-4a3f-91e0-87387a11e81e.jpg?1580013621"
+  },
+  "clever concealment": {
+    "name": "Clever Concealment",
+    "scryfall_uri": "https://scryfall.com/card/fic/236/clever-concealment?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/8/4836e220-5c89-49fc-8918-a51adf026ab4.jpg?1748705045",
+    "image_large": "https://cards.scryfall.io/large/front/4/8/4836e220-5c89-49fc-8918-a51adf026ab4.jpg?1748705045"
+  },
+  "heroic intervention": {
+    "name": "Heroic Intervention",
+    "scryfall_uri": "https://scryfall.com/card/cmm/295/heroic-intervention?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.jpg?1689998584",
+    "image_large": "https://cards.scryfall.io/large/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.jpg?1689998584"
+  },
+  "linvala, shield of sea gate": {
+    "name": "Linvala, Shield of Sea Gate",
+    "scryfall_uri": "https://scryfall.com/card/znr/226/linvala-shield-of-sea-gate?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/9/49b66956-82e1-402f-9088-2201bdc0d4b8.jpg?1604200172",
+    "image_large": "https://cards.scryfall.io/large/front/4/9/49b66956-82e1-402f-9088-2201bdc0d4b8.jpg?1604200172"
+  },
+  "craterhoof behemoth": {
+    "name": "Craterhoof Behemoth",
+    "scryfall_uri": "https://scryfall.com/card/tdm/138/craterhoof-behemoth?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/7/276f5cee-a501-4658-bd4d-7a044bf1ccbc.jpg?1743204520",
+    "image_large": "https://cards.scryfall.io/large/front/2/7/276f5cee-a501-4658-bd4d-7a044bf1ccbc.jpg?1743204520"
+  },
+  "hateflayer": {
+    "name": "Hateflayer",
+    "scryfall_uri": "https://scryfall.com/card/eve/55/hateflayer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/8/38c26ba3-e325-433b-b653-4e80e737b54d.jpg?1562906892",
+    "image_large": "https://cards.scryfall.io/large/front/3/8/38c26ba3-e325-433b-b653-4e80e737b54d.jpg?1562906892"
+  },
+  "seedborn muse": {
+    "name": "Seedborn Muse",
+    "scryfall_uri": "https://scryfall.com/card/tdc/268/seedborn-muse?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/6/76f58441-5674-4f1e-af9b-94e14ab7e619.jpg?1761042058",
+    "image_large": "https://cards.scryfall.io/large/front/7/6/76f58441-5674-4f1e-af9b-94e14ab7e619.jpg?1761042058"
+  },
+  "spore frog": {
+    "name": "Spore Frog",
+    "scryfall_uri": "https://scryfall.com/card/mh1/180/spore-frog?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1562202192",
+    "image_large": "https://cards.scryfall.io/large/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1562202192"
+  },
+  "tuktuk rubblefort": {
+    "name": "Tuktuk Rubblefort",
+    "scryfall_uri": "https://scryfall.com/card/znr/173/tuktuk-rubblefort?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/2/02eedf9d-e26c-405c-aee5-1b3493dc5e9b.jpg?1604198284",
+    "image_large": "https://cards.scryfall.io/large/front/0/2/02eedf9d-e26c-405c-aee5-1b3493dc5e9b.jpg?1604198284"
+  },
+  "tazri, stalwart survivor": {
+    "name": "Tazri, Stalwart Survivor",
+    "scryfall_uri": "https://scryfall.com/card/mat/6/tazri-stalwart-survivor?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/2/227d0d7d-544b-4736-914d-10d5d752eb42.jpg?1684340488",
+    "image_large": "https://cards.scryfall.io/large/front/2/2/227d0d7d-544b-4736-914d-10d5d752eb42.jpg?1684340488"
+  },
+  "omniscience": {
+    "name": "Omniscience",
+    "scryfall_uri": "https://scryfall.com/card/fdn/161/omniscience?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/3/d33d91d0-1506-45e4-9def-975bf901815e.jpg?1731652624",
+    "image_large": "https://cards.scryfall.io/large/front/d/3/d33d91d0-1506-45e4-9def-975bf901815e.jpg?1731652624"
+  },
+  "ancient gold dragon": {
+    "name": "Ancient Gold Dragon",
+    "scryfall_uri": "https://scryfall.com/card/clb/3/ancient-gold-dragon?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/2/421395b1-2694-42fd-bb90-0007e78adefc.jpg?1674134865",
+    "image_large": "https://cards.scryfall.io/large/front/4/2/421395b1-2694-42fd-bb90-0007e78adefc.jpg?1674134865"
+  },
+  "phage, the untouchable": {
+    "name": "Phage the Untouchable",
+    "scryfall_uri": "https://scryfall.com/card/cns/120/phage-the-untouchable?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/4/d497a5a3-65fb-4c12-b3f2-8ce4cf4e0f6f.jpg?1562866889",
+    "image_large": "https://cards.scryfall.io/large/front/d/4/d497a5a3-65fb-4c12-b3f2-8ce4cf4e0f6f.jpg?1562866889"
+  },
+  "blightsteel colossus": {
+    "name": "Blightsteel Colossus",
+    "scryfall_uri": "https://scryfall.com/card/2xm/235/blightsteel-colossus?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/8/18adbda4-8d36-47cd-afbc-c785aaa8ed80.jpg?1759225558",
+    "image_large": "https://cards.scryfall.io/large/front/1/8/18adbda4-8d36-47cd-afbc-c785aaa8ed80.jpg?1759225558"
+  },
+  "ulamog, the ceaseless hunger": {
+    "name": "Ulamog, the Ceaseless Hunger",
+    "scryfall_uri": "https://scryfall.com/card/cmm/5/ulamog-the-ceaseless-hunger?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/7/c74ae706-b3b3-4097-a387-6f6c38a9b603.jpg?1689995438",
+    "image_large": "https://cards.scryfall.io/large/front/c/7/c74ae706-b3b3-4097-a387-6f6c38a9b603.jpg?1689995438"
+  },
+  "emrakul, the aeons torn": {
+    "name": "Emrakul, the Aeons Torn",
+    "scryfall_uri": "https://scryfall.com/card/2x2/1/emrakul-the-aeons-torn?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/4/249db4d4-2542-47ee-a216-e13ffbc2319c.jpg?1758104027",
+    "image_large": "https://cards.scryfall.io/large/front/2/4/249db4d4-2542-47ee-a216-e13ffbc2319c.jpg?1758104027"
+  },
+  "sheoldred, whispering one": {
+    "name": "Sheoldred, Whispering One",
+    "scryfall_uri": "https://scryfall.com/card/jmp/278/sheoldred-whispering-one?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/b/8b207a4a-47d1-4905-81d3-455c59bfd7da.jpg?1600714694",
+    "image_large": "https://cards.scryfall.io/large/front/8/b/8b207a4a-47d1-4905-81d3-455c59bfd7da.jpg?1600714694"
+  },
+  "solitude": {
+    "name": "Solitude",
+    "scryfall_uri": "https://scryfall.com/card/mh2/32/solitude?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1763472875",
+    "image_large": "https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1763472875"
+  },
+  "fiend hunter": {
+    "name": "Fiend Hunter",
+    "scryfall_uri": "https://scryfall.com/card/inr/22/fiend-hunter?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/6/f606cf4d-e29b-415a-956c-b148045c44e9.jpg?1736467504",
+    "image_large": "https://cards.scryfall.io/large/front/f/6/f606cf4d-e29b-415a-956c-b148045c44e9.jpg?1736467504"
+  },
+  "amphin mutineer": {
+    "name": "Amphin Mutineer",
+    "scryfall_uri": "https://scryfall.com/card/tdc/143/amphin-mutineer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/6/967b5ed9-7275-4564-8bf9-2748fea2f387.jpg?1743206269",
+    "image_large": "https://cards.scryfall.io/large/front/9/6/967b5ed9-7275-4564-8bf9-2748fea2f387.jpg?1743206269"
+  },
+  "davriel, rogue shadowmage": {
+    "name": "Davriel, Rogue Shadowmage",
+    "scryfall_uri": "https://scryfall.com/card/war/83/davriel-rogue-shadowmage?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/b/5b1a44f0-1db8-406a-b7d9-f883f947f7bd.jpg?1557576424",
+    "image_large": "https://cards.scryfall.io/large/front/5/b/5b1a44f0-1db8-406a-b7d9-f883f947f7bd.jpg?1557576424"
+  },
+  "archon of cruelty": {
+    "name": "Archon of Cruelty",
+    "scryfall_uri": "https://scryfall.com/card/mh2/75/archon-of-cruelty?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/b/1be9d9a4-d7ee-4854-abc2-85cabf993ec9.jpg?1626095274",
+    "image_large": "https://cards.scryfall.io/large/front/1/b/1be9d9a4-d7ee-4854-abc2-85cabf993ec9.jpg?1626095274"
+  },
+  "rankle, master of pranks": {
+    "name": "Rankle, Master of Pranks",
+    "scryfall_uri": "https://scryfall.com/card/otc/148/rankle-master-of-pranks?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/8/4821d865-2a46-4611-ab93-1a9fdde08302.jpg?1712354347",
+    "image_large": "https://cards.scryfall.io/large/front/4/8/4821d865-2a46-4611-ab93-1a9fdde08302.jpg?1712354347"
+  },
+  "dusk mangler": {
+    "name": "Dusk Mangler",
+    "scryfall_uri": "https://scryfall.com/card/clb/751/dusk-mangler?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/d/ed473b7d-2078-424e-b1a0-a58e04bf9cc2.jpg?1674141600",
+    "image_large": "https://cards.scryfall.io/large/front/e/d/ed473b7d-2078-424e-b1a0-a58e04bf9cc2.jpg?1674141600"
+  },
+  "wilt-leaf liege": {
+    "name": "Wilt-Leaf Liege",
+    "scryfall_uri": "https://scryfall.com/card/fdn/668/wilt-leaf-liege?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/d/4d383bbf-6bb1-4c2c-899b-65d8df9d0889.jpg?1730491125",
+    "image_large": "https://cards.scryfall.io/large/front/4/d/4d383bbf-6bb1-4c2c-899b-65d8df9d0889.jpg?1730491125"
+  },
+  "loxodon smiter": {
+    "name": "Loxodon Smiter",
+    "scryfall_uri": "https://scryfall.com/card/rtr/178/loxodon-smiter?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/9/69247168-2bfb-4cce-a2a6-61459a0fbce4.jpg?1562787559",
+    "image_large": "https://cards.scryfall.io/large/front/6/9/69247168-2bfb-4cce-a2a6-61459a0fbce4.jpg?1562787559"
+  },
+  "quagnoth": {
+    "name": "Quagnoth",
+    "scryfall_uri": "https://scryfall.com/card/fut/150/quagnoth?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/3/335c3aa3-af89-44ce-955a-69e12d83175f.jpg?1562905350",
+    "image_large": "https://cards.scryfall.io/large/front/3/3/335c3aa3-af89-44ce-955a-69e12d83175f.jpg?1562905350"
+  },
+  "nullhide ferox": {
+    "name": "Nullhide Ferox",
+    "scryfall_uri": "https://scryfall.com/card/grn/138/nullhide-ferox?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/4/24c30bb0-06ba-432b-a20c-6fa79b0dc68a.jpg?1572893406",
+    "image_large": "https://cards.scryfall.io/large/front/2/4/24c30bb0-06ba-432b-a20c-6fa79b0dc68a.jpg?1572893406"
+  },
+  "orvar, the all-form": {
+    "name": "Orvar, the All-Form",
+    "scryfall_uri": "https://scryfall.com/card/khm/70/orvar-the-all-form?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/f/7f36775e-9e48-49cc-a771-d58481712edc.jpg?1631047424",
+    "image_large": "https://cards.scryfall.io/large/front/7/f/7f36775e-9e48-49cc-a771-d58481712edc.jpg?1631047424"
+  },
+  "storm herd": {
+    "name": "Storm Herd",
+    "scryfall_uri": "https://scryfall.com/card/khc/33/storm-herd?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/3/2345331c-a14f-4b4b-a9a4-88c5beb48242.jpg?1631234196",
+    "image_large": "https://cards.scryfall.io/large/front/2/3/2345331c-a14f-4b4b-a9a4-88c5beb48242.jpg?1631234196"
+  },
+  "crush of wurms": {
+    "name": "Crush of Wurms",
+    "scryfall_uri": "https://scryfall.com/card/jud/110/crush-of-wurms?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/2/32a924b3-3bd6-43ad-acbd-1303dd670db4.jpg?1562629260",
+    "image_large": "https://cards.scryfall.io/large/front/3/2/32a924b3-3bd6-43ad-acbd-1303dd670db4.jpg?1562629260"
+  },
+  "army of the damned": {
+    "name": "Army of the Damned",
+    "scryfall_uri": "https://scryfall.com/card/ncc/242/army-of-the-damned?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/f/bf818314-1eb4-48da-8e6f-ff7b89873b63.jpg?1673484100",
+    "image_large": "https://cards.scryfall.io/large/front/b/f/bf818314-1eb4-48da-8e6f-ff7b89873b63.jpg?1673484100"
+  },
+  "elspeth, sun's champion": {
+    "name": "Elspeth, Sun's Champion",
+    "scryfall_uri": "https://scryfall.com/card/mkc/62/elspeth-suns-champion?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/6/46dc2519-2729-4bbd-8892-fab6186bf116.jpg?1706240571",
+    "image_large": "https://cards.scryfall.io/large/front/4/6/46dc2519-2729-4bbd-8892-fab6186bf116.jpg?1706240571"
+  },
+  "gather specimens": {
+    "name": "Gather Specimens",
+    "scryfall_uri": "https://scryfall.com/card/ala/45/gather-specimens?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/b/bbadf982-f22e-4f4f-b5c9-ac387f25c15f.jpg?1562708387",
+    "image_large": "https://cards.scryfall.io/large/front/b/b/bbadf982-f22e-4f4f-b5c9-ac387f25c15f.jpg?1562708387"
+  },
+  "control magic": {
+    "name": "Control Magic",
+    "scryfall_uri": "https://scryfall.com/card/cma/34/control-magic?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/4/84992800-9bad-4598-afd4-f1e59d2e0956.jpg?1592672507",
+    "image_large": "https://cards.scryfall.io/large/front/8/4/84992800-9bad-4598-afd4-f1e59d2e0956.jpg?1592672507"
+  },
+  "agent of treachery": {
+    "name": "Agent of Treachery",
+    "scryfall_uri": "https://scryfall.com/card/m20/43/agent-of-treachery?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/c/cc6686e6-4535-49be-b0b3-e76464656cd2.jpg?1639052497",
+    "image_large": "https://cards.scryfall.io/large/front/c/c/cc6686e6-4535-49be-b0b3-e76464656cd2.jpg?1639052497"
+  },
+  "emrakul, the world anew": {
+    "name": "Emrakul, the World Anew",
+    "scryfall_uri": "https://scryfall.com/card/mh3/6/emrakul-the-world-anew?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/9/b914bfd9-5be3-4459-a68a-9b3ea2747bbc.jpg?1740308389",
+    "image_large": "https://cards.scryfall.io/large/front/b/9/b914bfd9-5be3-4459-a68a-9b3ea2747bbc.jpg?1740308389"
+  },
+  "the rack": {
+    "name": "The Rack",
+    "scryfall_uri": "https://scryfall.com/card/tsb/113/the-rack?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/9/696d1e25-5c25-4522-b085-90d49fe23a18.jpg?1562777875",
+    "image_large": "https://cards.scryfall.io/large/front/6/9/696d1e25-5c25-4522-b085-90d49fe23a18.jpg?1562777875"
+  },
+  "roiling vortex": {
+    "name": "Roiling Vortex",
+    "scryfall_uri": "https://scryfall.com/card/znr/156/roiling-vortex?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/b/0b057eb7-8439-4d26-89df-c345ab2773e1.jpg?1604197684",
+    "image_large": "https://cards.scryfall.io/large/front/0/b/0b057eb7-8439-4d26-89df-c345ab2773e1.jpg?1604197684"
+  },
+  "chandra, awakened inferno": {
+    "name": "Chandra, Awakened Inferno",
+    "scryfall_uri": "https://scryfall.com/card/cmm/875/chandra-awakened-inferno?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/d/0d4fb926-fe8c-4640-ac8d-ef418b8945d5.jpg?1690004641",
+    "image_large": "https://cards.scryfall.io/large/front/0/d/0d4fb926-fe8c-4640-ac8d-ef418b8945d5.jpg?1690004641"
+  },
+  "ugin, the spirit dragon": {
+    "name": "Ugin, the Spirit Dragon",
+    "scryfall_uri": "https://scryfall.com/card/m21/1/ugin-the-spirit-dragon?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/c/9c017fa9-7021-417a-9c2e-3df409644fcf.jpg?1639052473",
+    "image_large": "https://cards.scryfall.io/large/front/9/c/9c017fa9-7021-417a-9c2e-3df409644fcf.jpg?1639052473"
+  },
+  "acererak the archlich": {
+    "name": "Acererak the Archlich",
+    "scryfall_uri": "https://scryfall.com/card/afr/87/acererak-the-archlich?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/d/dd52d0bd-3abd-401c-9f56-ee911613da3b.jpg?1627704283",
+    "image_large": "https://cards.scryfall.io/large/front/d/d/dd52d0bd-3abd-401c-9f56-ee911613da3b.jpg?1627704283"
+  },
+  "lost mine of phandelver": {
+    "name": "Lost Mine of Phandelver",
+    "scryfall_uri": "https://scryfall.com/card/tafr/21/lost-mine-of-phandelver?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1641306266",
+    "image_large": "https://cards.scryfall.io/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1641306266"
+  },
+  "mystic snake": {
+    "name": "Mystic Snake",
+    "scryfall_uri": "https://scryfall.com/card/a25/208/mystic-snake?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/d/2d4bacd1-b602-4bcc-9aea-1229949a7d20.jpg?1562433990",
+    "image_large": "https://cards.scryfall.io/large/front/2/d/2d4bacd1-b602-4bcc-9aea-1229949a7d20.jpg?1562433990"
+  },
+  "hope-ender coatl": {
+    "name": "Hope-Ender Coatl",
+    "scryfall_uri": "https://scryfall.com/card/mh3/64/hope-ender-coatl?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/6/26973cad-26d7-4d42-a58a-85c3dce3b9fd.jpg?1717011730",
+    "image_large": "https://cards.scryfall.io/large/front/2/6/26973cad-26d7-4d42-a58a-85c3dce3b9fd.jpg?1717011730"
+  },
+  "ertai resurrected": {
+    "name": "Ertai Resurrected",
+    "scryfall_uri": "https://scryfall.com/card/dmu/199/ertai-resurrected?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944",
+    "image_large": "https://cards.scryfall.io/large/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944"
+  },
+  "aven interrupter": {
+    "name": "Aven Interrupter",
+    "scryfall_uri": "https://scryfall.com/card/otj/4/aven-interrupter?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/3/d3ca43a4-d194-440f-8099-f1fa103a108d.jpg?1712355236",
+    "image_large": "https://cards.scryfall.io/large/front/d/3/d3ca43a4-d194-440f-8099-f1fa103a108d.jpg?1712355236"
+  },
+  "absolute virtue": {
+    "name": "Absolute Virtue",
+    "scryfall_uri": "https://scryfall.com/card/fin/212/absolute-virtue?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/a/aa192912-c9ee-403f-8a46-a338c9edb4b9.jpg?1748706551",
+    "image_large": "https://cards.scryfall.io/large/front/a/a/aa192912-c9ee-403f-8a46-a338c9edb4b9.jpg?1748706551"
+  },
+  "celestial crusader": {
+    "name": "Celestial Crusader",
+    "scryfall_uri": "https://scryfall.com/card/tsr/13/celestial-crusader?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/56f371f5-9c2a-4a00-a4d2-e4f97ac0f3e0.jpg?1619392769",
+    "image_large": "https://cards.scryfall.io/large/front/5/6/56f371f5-9c2a-4a00-a4d2-e4f97ac0f3e0.jpg?1619392769"
+  },
+  "sulfur elemental": {
+    "name": "Sulfur Elemental",
+    "scryfall_uri": "https://scryfall.com/card/tsr/195/sulfur-elemental?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/a/0aed10f9-8c52-400b-a432-a0d8c6458e87.jpg?1619397746",
+    "image_large": "https://cards.scryfall.io/large/front/0/a/0aed10f9-8c52-400b-a432-a0d8c6458e87.jpg?1619397746"
+  },
+  "progenitus": {
+    "name": "Progenitus",
+    "scryfall_uri": "https://scryfall.com/card/fdn/244/progenitus?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/7/e77fbc87-d78e-4602-baa0-da9b0d464dfb.jpg?1730489513",
+    "image_large": "https://cards.scryfall.io/large/front/e/7/e77fbc87-d78e-4602-baa0-da9b0d464dfb.jpg?1730489513"
+  },
+  "vexing bauble": {
+    "name": "Vexing Bauble",
+    "scryfall_uri": "https://scryfall.com/card/mh3/212/vexing-bauble?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1734350193",
+    "image_large": "https://cards.scryfall.io/large/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1734350193"
+  },
+  "void mirror": {
+    "name": "Void Mirror",
+    "scryfall_uri": "https://scryfall.com/card/mh2/242/void-mirror?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/f/6f906219-7a6a-427b-93c4-4d958cbd171c.jpg?1626099451",
+    "image_large": "https://cards.scryfall.io/large/front/6/f/6f906219-7a6a-427b-93c4-4d958cbd171c.jpg?1626099451"
+  },
+  "lavinia, azorius renegade": {
+    "name": "Lavinia, Azorius Renegade",
+    "scryfall_uri": "https://scryfall.com/card/rvr/195/lavinia-azorius-renegade?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/9/197bf3f4-c0df-4082-97a1-902ceabbdd3f.jpg?1702429657",
+    "image_large": "https://cards.scryfall.io/large/front/1/9/197bf3f4-c0df-4082-97a1-902ceabbdd3f.jpg?1702429657"
+  },
+  "boromir, warden of the tower": {
+    "name": "Boromir, Warden of the Tower",
+    "scryfall_uri": "https://scryfall.com/card/ltr/4/boromir-warden-of-the-tower?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1686967669",
+    "image_large": "https://cards.scryfall.io/large/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1686967669"
+  },
+  "council of the absolute": {
+    "name": "Council of the Absolute",
+    "scryfall_uri": "https://scryfall.com/card/dgm/62/council-of-the-absolute?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/a/da18a6a5-0042-40ae-bd33-a6d5a65a9944.jpg?1562935733",
+    "image_large": "https://cards.scryfall.io/large/front/d/a/da18a6a5-0042-40ae-bd33-a6d5a65a9944.jpg?1562935733"
+  },
+  "meddling mage": {
+    "name": "Meddling Mage",
+    "scryfall_uri": "https://scryfall.com/card/2xm/210/meddling-mage?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/e/de734753-e102-489b-9160-b3f3d10be4f1.jpg?1628801942",
+    "image_large": "https://cards.scryfall.io/large/front/d/e/de734753-e102-489b-9160-b3f3d10be4f1.jpg?1628801942"
+  },
+  "gaddock teeg": {
+    "name": "Gaddock Teeg",
+    "scryfall_uri": "https://scryfall.com/card/uma/199/gaddock-teeg?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/4/f40cfba1-08b5-4241-bd36-8ae18e584557.jpg?1559959266",
+    "image_large": "https://cards.scryfall.io/large/front/f/4/f40cfba1-08b5-4241-bd36-8ae18e584557.jpg?1559959266"
+  },
+  "iona, shield of emeria": {
+    "name": "Iona, Shield of Emeria",
+    "scryfall_uri": "https://scryfall.com/card/mm2/20/iona-shield-of-emeria?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/1/6197b59e-1652-496c-a038-e2eb88ecf017.jpg?1758103598",
+    "image_large": "https://cards.scryfall.io/large/front/6/1/6197b59e-1652-496c-a038-e2eb88ecf017.jpg?1758103598"
+  },
+  "iona shield of emeria": {
+    "name": "Iona, Shield of Emeria",
+    "scryfall_uri": "https://scryfall.com/card/mm2/20/iona-shield-of-emeria?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/1/6197b59e-1652-496c-a038-e2eb88ecf017.jpg?1758103598",
+    "image_large": "https://cards.scryfall.io/large/front/6/1/6197b59e-1652-496c-a038-e2eb88ecf017.jpg?1758103598"
+  },
+  "chancellor of the annex": {
+    "name": "Chancellor of the Annex",
+    "scryfall_uri": "https://scryfall.com/card/nph/6/chancellor-of-the-annex?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/e/be1b482a-badb-4b9a-ab63-2e7944826aa0.jpg?1562881152",
+    "image_large": "https://cards.scryfall.io/large/front/b/e/be1b482a-badb-4b9a-ab63-2e7944826aa0.jpg?1562881152"
+  },
+  "tamanoa": {
+    "name": "Tamanoa",
+    "scryfall_uri": "https://scryfall.com/card/csp/132/tamanoa?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/d/6d32955b-cbf6-429b-9513-17ca75d4ec2c.jpg?1593275551",
+    "image_large": "https://cards.scryfall.io/large/front/6/d/6d32955b-cbf6-429b-9513-17ca75d4ec2c.jpg?1593275551"
+  },
+  "syr konrad, the grim": {
+    "name": "Syr Konrad, the Grim",
+    "scryfall_uri": "https://scryfall.com/card/dsc/158/syr-konrad-the-grim?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/4/443a4eac-f972-4027-aed4-552d4edc2ce1.jpg?1726284914",
+    "image_large": "https://cards.scryfall.io/large/front/4/4/443a4eac-f972-4027-aed4-552d4edc2ce1.jpg?1726284914"
+  },
+  "damn": {
+    "name": "Damn",
+    "scryfall_uri": "https://scryfall.com/card/lcc/191/damn?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/4/84056124-1a6f-4274-bee2-74cf0debddb5.jpg?1698988237",
+    "image_large": "https://cards.scryfall.io/large/front/8/4/84056124-1a6f-4274-bee2-74cf0debddb5.jpg?1698988237"
+  },
+  "cultivate": {
+    "name": "Cultivate",
+    "scryfall_uri": "https://scryfall.com/card/ecc/103/cultivate?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/d/4d36559d-3b91-46e4-bc39-c489842adcbf.jpg?1767731192",
+    "image_large": "https://cards.scryfall.io/large/front/4/d/4d36559d-3b91-46e4-bc39-c489842adcbf.jpg?1767731192"
+  },
+  "swords to plowshares": {
+    "name": "Swords to Plowshares",
+    "scryfall_uri": "https://scryfall.com/card/eoc/45/swords-to-plowshares?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/e/0e7ff4dc-af63-4342-9a44-d059e62bd14c.jpg?1752944384",
+    "image_large": "https://cards.scryfall.io/large/front/0/e/0e7ff4dc-af63-4342-9a44-d059e62bd14c.jpg?1752944384"
+  },
+  "generous gift": {
+    "name": "Generous Gift",
+    "scryfall_uri": "https://scryfall.com/card/lcc/128/generous-gift?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/c/fc70e127-ffc8-45ed-9ca3-7f9f926ac4d5.jpg?1700321873",
+    "image_large": "https://cards.scryfall.io/large/front/f/c/fc70e127-ffc8-45ed-9ca3-7f9f926ac4d5.jpg?1700321873"
+  },
+  "teferi's protection": {
+    "name": "Teferi's Protection",
+    "scryfall_uri": "https://scryfall.com/card/2x2/32/teferis-protection?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/8/483fa1cb-1e35-44f2-a143-98c0f107f5ca.jpg?1745319936",
+    "image_large": "https://cards.scryfall.io/large/front/4/8/483fa1cb-1e35-44f2-a143-98c0f107f5ca.jpg?1745319936"
+  },
+  "smothering tithe": {
+    "name": "Smothering Tithe",
+    "scryfall_uri": "https://scryfall.com/card/cmm/57/smothering-tithe?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/6/861b5889-0183-4bee-afeb-a4b2aa700a8e.jpg?1689996018",
+    "image_large": "https://cards.scryfall.io/large/front/8/6/861b5889-0183-4bee-afeb-a4b2aa700a8e.jpg?1689996018"
+  },
+  "counterspell": {
+    "name": "Counterspell",
+    "scryfall_uri": "https://scryfall.com/card/dsc/114/counterspell?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1751282477",
+    "image_large": "https://cards.scryfall.io/large/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1751282477"
+  },
+  "fierce guardianship": {
+    "name": "Fierce Guardianship",
+    "scryfall_uri": "https://scryfall.com/card/cmm/94/fierce-guardianship?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/7/f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc.jpg?1767727540",
+    "image_large": "https://cards.scryfall.io/large/front/f/7/f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc.jpg?1767727540"
+  },
+  "cyclonic rift": {
+    "name": "Cyclonic Rift",
+    "scryfall_uri": "https://scryfall.com/card/rvr/40/cyclonic-rift?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1702429366",
+    "image_large": "https://cards.scryfall.io/large/front/d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1702429366"
+  },
+  "rhystic study": {
+    "name": "Rhystic Study",
+    "scryfall_uri": "https://scryfall.com/card/jmp/169/rhystic-study?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/6/d6914dba-0d27-4055-ac34-b3ebf5802221.jpg?1600698439",
+    "image_large": "https://cards.scryfall.io/large/front/d/6/d6914dba-0d27-4055-ac34-b3ebf5802221.jpg?1600698439"
+  },
+  "mana drain": {
+    "name": "Mana Drain",
+    "scryfall_uri": "https://scryfall.com/card/2x2/57/mana-drain?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.jpg?1762813208",
+    "image_large": "https://cards.scryfall.io/large/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.jpg?1762813208"
+  },
+  "dark ritual": {
+    "name": "Dark Ritual",
+    "scryfall_uri": "https://scryfall.com/card/a25/82/dark-ritual?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1753711947",
+    "image_large": "https://cards.scryfall.io/large/front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1753711947"
+  },
+  "village rites": {
+    "name": "Village Rites",
+    "scryfall_uri": "https://scryfall.com/card/inr/137/village-rites?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/2/42ed35e9-51cd-468a-86a9-9412553cf50d.jpg?1736468066",
+    "image_large": "https://cards.scryfall.io/large/front/4/2/42ed35e9-51cd-468a-86a9-9412553cf50d.jpg?1736468066"
+  },
+  "reanimate": {
+    "name": "Reanimate",
+    "scryfall_uri": "https://scryfall.com/card/dsc/155/reanimate?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1738000013",
+    "image_large": "https://cards.scryfall.io/large/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1738000013"
+  },
+  "blasphemous act": {
+    "name": "Blasphemous Act",
+    "scryfall_uri": "https://scryfall.com/card/ecc/89/blasphemous-act?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/3/f349a283-a3ee-468b-92c5-d74f53f4d621.jpg?1767731058",
+    "image_large": "https://cards.scryfall.io/large/front/f/3/f349a283-a3ee-468b-92c5-d74f53f4d621.jpg?1767731058"
+  },
+  "lightning bolt": {
+    "name": "Lightning Bolt",
+    "scryfall_uri": "https://scryfall.com/card/clu/141/lightning-bolt?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/7/77c6fa74-5543-42ac-9ead-0e890b188e99.jpg?1706239968",
+    "image_large": "https://cards.scryfall.io/large/front/7/7/77c6fa74-5543-42ac-9ead-0e890b188e99.jpg?1706239968"
+  },
+  "chaos warp": {
+    "name": "Chaos Warp",
+    "scryfall_uri": "https://scryfall.com/card/eoc/49/chaos-warp?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/4/d4372203-b930-4e6e-a351-e5b4581eb72b.jpg?1752944413",
+    "image_large": "https://cards.scryfall.io/large/front/d/4/d4372203-b930-4e6e-a351-e5b4581eb72b.jpg?1752944413"
+  },
+  "deflecting swat": {
+    "name": "Deflecting Swat",
+    "scryfall_uri": "https://scryfall.com/card/cmm/214/deflecting-swat?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1764261658",
+    "image_large": "https://cards.scryfall.io/large/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1764261658"
+  },
+  "impact tremors": {
+    "name": "Impact Tremors",
+    "scryfall_uri": "https://scryfall.com/card/fdn/717/impact-tremors?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.jpg?1730572713",
+    "image_large": "https://cards.scryfall.io/large/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.jpg?1730572713"
+  },
+  "beast within": {
+    "name": "Beast Within",
+    "scryfall_uri": "https://scryfall.com/card/eoc/93/beast-within?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/c/ccac70d4-6e04-4802-8bb8-021368a40e14.jpg?1752944774",
+    "image_large": "https://cards.scryfall.io/large/front/c/c/ccac70d4-6e04-4802-8bb8-021368a40e14.jpg?1752944774"
+  },
+  "birds of paradise": {
+    "name": "Birds of Paradise",
+    "scryfall_uri": "https://scryfall.com/card/rvr/133/birds-of-paradise?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.jpg?1722384747",
+    "image_large": "https://cards.scryfall.io/large/front/3/d/3d69a3e0-6a2e-475a-964e-0affed1c017d.jpg?1722384747"
+  },
+  "beast whisperer": {
+    "name": "Beast Whisperer",
+    "scryfall_uri": "https://scryfall.com/card/clu/158/beast-whisperer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/a/daf4bcd2-3ae4-4803-9ea1-3bcc3de5ca59.jpg?1706240020",
+    "image_large": "https://cards.scryfall.io/large/front/d/a/daf4bcd2-3ae4-4803-9ea1-3bcc3de5ca59.jpg?1706240020"
+  },
+  "farseek": {
+    "name": "Farseek",
+    "scryfall_uri": "https://scryfall.com/card/eoc/50/farseek?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/5/95e0760a-d285-493b-88cd-7556d9b10007.jpg?1759995699",
+    "image_large": "https://cards.scryfall.io/large/front/9/5/95e0760a-d285-493b-88cd-7556d9b10007.jpg?1759995699"
+  },
+  "rampant growth": {
+    "name": "Rampant Growth",
+    "scryfall_uri": "https://scryfall.com/card/tdc/265/rampant-growth?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/7/b7c47024-5e08-4b17-b41a-7647f8b814b9.jpg?1743206981",
+    "image_large": "https://cards.scryfall.io/large/front/b/7/b7c47024-5e08-4b17-b41a-7647f8b814b9.jpg?1743206981"
+  },
+  "llanowar elves": {
+    "name": "Llanowar Elves",
+    "scryfall_uri": "https://scryfall.com/card/fdn/227/llanowar-elves?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.jpg?1731652605",
+    "image_large": "https://cards.scryfall.io/large/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.jpg?1731652605"
+  },
+  "the great henge": {
+    "name": "The Great Henge",
+    "scryfall_uri": "https://scryfall.com/card/cmm/294/the-great-henge?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/6340e0f3-7f9c-4d71-8daf-e1be5505eb5b.jpg?1689998574",
+    "image_large": "https://cards.scryfall.io/large/front/6/3/6340e0f3-7f9c-4d71-8daf-e1be5505eb5b.jpg?1689998574"
+  },
+  "giada, font of hope": {
+    "name": "Giada, Font of Hope",
+    "scryfall_uri": "https://scryfall.com/card/fdn/141/giada-font-of-hope?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/a/8ae6fc26-cfad-4da8-98d9-49c27c24d293.jpg?1730489128",
+    "image_large": "https://cards.scryfall.io/large/front/8/a/8ae6fc26-cfad-4da8-98d9-49c27c24d293.jpg?1730489128"
+  },
+  "aurelia, the warleader": {
+    "name": "Aurelia, the Warleader",
+    "scryfall_uri": "https://scryfall.com/card/fdn/651/aurelia-the-warleader?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/c/bc6ffc1c-575b-4116-83c9-d13b29886c35.jpg?1730491066",
+    "image_large": "https://cards.scryfall.io/large/front/b/c/bc6ffc1c-575b-4116-83c9-d13b29886c35.jpg?1730491066"
+  },
+  "shalai, voice of plenty": {
+    "name": "Shalai, Voice of Plenty",
+    "scryfall_uri": "https://scryfall.com/card/tdc/130/shalai-voice-of-plenty?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/3/53876046-cdb8-4157-96cd-7832d3ad2549.jpg?1744479450",
+    "image_large": "https://cards.scryfall.io/large/front/5/3/53876046-cdb8-4157-96cd-7832d3ad2549.jpg?1744479450"
+  },
+  "gisela, blade of goldnight": {
+    "name": "Gisela, Blade of Goldnight",
+    "scryfall_uri": "https://scryfall.com/card/mkc/211/gisela-blade-of-goldnight?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1706547139",
+    "image_large": "https://cards.scryfall.io/large/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1706547139"
+  },
+  "sigarda, font of blessings": {
+    "name": "Sigarda, Font of Blessings",
+    "scryfall_uri": "https://scryfall.com/card/mat/47/sigarda-font-of-blessings?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/b/cba71725-d6df-44d7-a93b-934573759711.jpg?1684340854",
+    "image_large": "https://cards.scryfall.io/large/front/c/b/cba71725-d6df-44d7-a93b-934573759711.jpg?1684340854"
+  },
+  "atraxa, praetors' voice": {
+    "name": "Atraxa, Praetors' Voice",
+    "scryfall_uri": "https://scryfall.com/card/2xm/190/atraxa-praetors-voice?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/0/d0d33d52-3d28-4635-b985-51e126289259.jpg?1599707796",
+    "image_large": "https://cards.scryfall.io/large/front/d/0/d0d33d52-3d28-4635-b985-51e126289259.jpg?1599707796"
+  },
+  "metropolis angel": {
+    "name": "Metropolis Angel",
+    "scryfall_uri": "https://scryfall.com/card/snc/203/metropolis-angel?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/633c7e38-fdad-461c-9ecb-3e89d5b80f24.jpg?1664413352",
+    "image_large": "https://cards.scryfall.io/large/front/6/3/633c7e38-fdad-461c-9ecb-3e89d5b80f24.jpg?1664413352"
+  },
+  "shalai and hallar": {
+    "name": "Shalai and Hallar",
+    "scryfall_uri": "https://scryfall.com/card/moc/10/shalai-and-hallar?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/0/80804f25-efc3-44a2-bbae-9a97fec98009.jpg?1682207281",
+    "image_large": "https://cards.scryfall.io/large/front/8/0/80804f25-efc3-44a2-bbae-9a97fec98009.jpg?1682207281"
+  },
+  "kindred discovery": {
+    "name": "Kindred Discovery",
+    "scryfall_uri": "https://scryfall.com/card/lcc/159/kindred-discovery?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.jpg?1698988160",
+    "image_large": "https://cards.scryfall.io/large/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.jpg?1698988160"
+  },
+  "reflections of littjara": {
+    "name": "Reflections of Littjara",
+    "scryfall_uri": "https://scryfall.com/card/tdc/164/reflections-of-littjara?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/7/578a1846-8c1a-4013-b669-1d3f4ddbbaa3.jpg?1743206390",
+    "image_large": "https://cards.scryfall.io/large/front/5/7/578a1846-8c1a-4013-b669-1d3f4ddbbaa3.jpg?1743206390"
+  },
+  "patriarch's bidding": {
+    "name": "Patriarch's Bidding",
+    "scryfall_uri": "https://scryfall.com/card/mh2/275/patriarchs-bidding?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/1/317686d8-b762-4598-b74a-8b1fa6b899ba.jpg?1626100387",
+    "image_large": "https://cards.scryfall.io/large/front/3/1/317686d8-b762-4598-b74a-8b1fa6b899ba.jpg?1626100387"
+  },
+  "raise the palisade": {
+    "name": "Raise the Palisade",
+    "scryfall_uri": "https://scryfall.com/card/ltc/23/raise-the-palisade?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/9/7966eb7a-0ef7-470f-9769-0d5f45f0395b.jpg?1686963911",
+    "image_large": "https://cards.scryfall.io/large/front/7/9/7966eb7a-0ef7-470f-9769-0d5f45f0395b.jpg?1686963911"
+  },
+  "light-paws, emperor's voice": {
+    "name": "Light-Paws, Emperor's Voice",
+    "scryfall_uri": "https://scryfall.com/card/neo/25/light-paws-emperors-voice?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/9/39555a72-a57b-45ee-9222-ce3b9e8de126.jpg?1654566391",
+    "image_large": "https://cards.scryfall.io/large/front/3/9/39555a72-a57b-45ee-9222-ce3b9e8de126.jpg?1654566391"
+  },
+  "wild growth": {
+    "name": "Wild Growth",
+    "scryfall_uri": "https://scryfall.com/card/mkc/195/wild-growth?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/7/47260e7c-29bf-46f1-a029-9da7bbb418b5.jpg?1711803863",
+    "image_large": "https://cards.scryfall.io/large/front/4/7/47260e7c-29bf-46f1-a029-9da7bbb418b5.jpg?1711803863"
+  },
+  "rancor": {
+    "name": "Rancor",
+    "scryfall_uri": "https://scryfall.com/card/2x2/156/rancor?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/6/86d6b411-4a31-4bfc-8dd6-e19f553bb29b.jpg?1673148169",
+    "image_large": "https://cards.scryfall.io/large/front/8/6/86d6b411-4a31-4bfc-8dd6-e19f553bb29b.jpg?1673148169"
+  },
+  "kaya's ghostform": {
+    "name": "Kaya's Ghostform",
+    "scryfall_uri": "https://scryfall.com/card/war/94/kayas-ghostform?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/8/98f3be88-24e2-433f-9138-f0cb59d09a0f.jpg?1557576491",
+    "image_large": "https://cards.scryfall.io/large/front/9/8/98f3be88-24e2-433f-9138-f0cb59d09a0f.jpg?1557576491"
+  },
+  "curiosity": {
+    "name": "Curiosity",
+    "scryfall_uri": "https://scryfall.com/card/jmp/147/curiosity?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/5/c5a0be10-c20f-4ac0-89a5-1770ecf48aad.jpg?1600697752",
+    "image_large": "https://cards.scryfall.io/large/front/c/5/c5a0be10-c20f-4ac0-89a5-1770ecf48aad.jpg?1600697752"
+  },
+  "ethereal armor": {
+    "name": "Ethereal Armor",
+    "scryfall_uri": "https://scryfall.com/card/dsk/7/ethereal-armor?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/d/fd0e8a82-0201-483e-a976-5f29764b35a4.jpg?1726285881",
+    "image_large": "https://cards.scryfall.io/large/front/f/d/fd0e8a82-0201-483e-a976-5f29764b35a4.jpg?1726285881"
+  },
+  "bear umbra": {
+    "name": "Bear Umbra",
+    "scryfall_uri": "https://scryfall.com/card/nec/113/bear-umbra?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/a/5a195fb1-f2e9-4e05-8a04-c335e1afbef6.jpg?1651655917",
+    "image_large": "https://cards.scryfall.io/large/front/5/a/5a195fb1-f2e9-4e05-8a04-c335e1afbef6.jpg?1651655917"
+  },
+  "ancestral mask": {
+    "name": "Ancestral Mask",
+    "scryfall_uri": "https://scryfall.com/card/ema/157/ancestral-mask?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/7/c7a19fc5-20f3-48d2-8c12-e012d3b302e7.jpg?1580014720",
+    "image_large": "https://cards.scryfall.io/large/front/c/7/c7a19fc5-20f3-48d2-8c12-e012d3b302e7.jpg?1580014720"
+  },
+  "strong back": {
+    "name": "Strong Back",
+    "scryfall_uri": "https://scryfall.com/card/pip/83/strong-back?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/f/3f65afa5-e4f7-49c2-97f9-47ad5dbcacfa.jpg?1708742342",
+    "image_large": "https://cards.scryfall.io/large/front/3/f/3f65afa5-e4f7-49c2-97f9-47ad5dbcacfa.jpg?1708742342"
+  },
+  "urza, lord high artificer": {
+    "name": "Urza, Lord High Artificer",
+    "scryfall_uri": "https://scryfall.com/card/cmm/130/urza-lord-high-artificer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/b/7b7a348a-51f7-4dc5-8fe7-1c70fea5e050.jpg?1761053659",
+    "image_large": "https://cards.scryfall.io/large/front/7/b/7b7a348a-51f7-4dc5-8fe7-1c70fea5e050.jpg?1761053659"
+  },
+  "dispatch": {
+    "name": "Dispatch",
+    "scryfall_uri": "https://scryfall.com/card/eoc/64/dispatch?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/7/27554761-8d6e-4de4-8ce3-f31b2c03708c.jpg?1752944538",
+    "image_large": "https://cards.scryfall.io/large/front/2/7/27554761-8d6e-4de4-8ce3-f31b2c03708c.jpg?1752944538"
+  },
+  "reckless fireweaver": {
+    "name": "Reckless Fireweaver",
+    "scryfall_uri": "https://scryfall.com/card/kld/126/reckless-fireweaver?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1576382167",
+    "image_large": "https://cards.scryfall.io/large/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1576382167"
+  },
+  "hellkite tyrant": {
+    "name": "Hellkite Tyrant",
+    "scryfall_uri": "https://scryfall.com/card/plst/RVR-111/hellkite-tyrant?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/7/a7cb4100-1696-4393-8f1f-634018e0b78f.jpg?1733170320",
+    "image_large": "https://cards.scryfall.io/large/front/a/7/a7cb4100-1696-4393-8f1f-634018e0b78f.jpg?1733170320"
+  },
+  "jhoira, weatherlight captain": {
+    "name": "Jhoira, Weatherlight Captain",
+    "scryfall_uri": "https://scryfall.com/card/eoc/118/jhoira-weatherlight-captain?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/7/776f490a-2f75-4c18-8164-56bd65bb09c6.jpg?1752944973",
+    "image_large": "https://cards.scryfall.io/large/front/7/7/776f490a-2f75-4c18-8164-56bd65bb09c6.jpg?1752944973"
+  },
+  "foundry inspector": {
+    "name": "Foundry Inspector",
+    "scryfall_uri": "https://scryfall.com/card/cmm/385/foundry-inspector?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/6/16debeb1-fb2b-4172-b6da-726416d4fb38.jpg?1689999559",
+    "image_large": "https://cards.scryfall.io/large/front/1/6/16debeb1-fb2b-4172-b6da-726416d4fb38.jpg?1689999559"
+  },
+  "braids, conjurer adept": {
+    "name": "Braids, Conjurer Adept",
+    "scryfall_uri": "https://scryfall.com/card/cmm/76/braids-conjurer-adept?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/e/9ea0a701-1349-4d32-9fe7-8a2563c9613d.jpg?1689996202",
+    "image_large": "https://cards.scryfall.io/large/front/9/e/9ea0a701-1349-4d32-9fe7-8a2563c9613d.jpg?1689996202"
+  },
+  "apex altisaur": {
+    "name": "Apex Altisaur",
+    "scryfall_uri": "https://scryfall.com/card/lcc/232/apex-altisaur?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/e/1e6beba4-128c-418e-83ed-8a82afc0c39e.jpg?1698988340",
+    "image_large": "https://cards.scryfall.io/large/front/1/e/1e6beba4-128c-418e-83ed-8a82afc0c39e.jpg?1698988340"
+  },
+  "ghalta, stampede tyrant": {
+    "name": "Ghalta, Stampede Tyrant",
+    "scryfall_uri": "https://scryfall.com/card/lci/185/ghalta-stampede-tyrant?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/2/72e805e9-69be-45c1-aa04-f460641a0c1e.jpg?1699044395",
+    "image_large": "https://cards.scryfall.io/large/front/7/2/72e805e9-69be-45c1-aa04-f460641a0c1e.jpg?1699044395"
+  },
+  "atraxa, grand unifier": {
+    "name": "Atraxa, Grand Unifier",
+    "scryfall_uri": "https://scryfall.com/card/one/196/atraxa-grand-unifier?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1717951088",
+    "image_large": "https://cards.scryfall.io/large/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1717951088"
+  },
+  "terastodon": {
+    "name": "Terastodon",
+    "scryfall_uri": "https://scryfall.com/card/c21/207/terastodon?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/63195796-197e-47ec-85f0-d4ec0065f6e6.jpg?1625977325",
+    "image_large": "https://cards.scryfall.io/large/front/6/3/63195796-197e-47ec-85f0-d4ec0065f6e6.jpg?1625977325"
+  },
+  "avacyn, angel of hope": {
+    "name": "Avacyn, Angel of Hope",
+    "scryfall_uri": "https://scryfall.com/card/cmm/14/avacyn-angel-of-hope?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/1/317f1133-7cf8-4b7a-919e-88c45f8c2c3a.jpg?1689995555",
+    "image_large": "https://cards.scryfall.io/large/front/3/1/317f1133-7cf8-4b7a-919e-88c45f8c2c3a.jpg?1689995555"
+  },
+  "koma, cosmos serpent": {
+    "name": "Koma, Cosmos Serpent",
+    "scryfall_uri": "https://scryfall.com/card/mkc/213/koma-cosmos-serpent?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/2/b2f23d6f-f2c8-4022-9f46-ba7fda00ef99.jpg?1706241008",
+    "image_large": "https://cards.scryfall.io/large/front/b/2/b2f23d6f-f2c8-4022-9f46-ba7fda00ef99.jpg?1706241008"
+  },
+  "parhelion ii": {
+    "name": "Parhelion II",
+    "scryfall_uri": "https://scryfall.com/card/nec/87/parhelion-ii?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/7/871279e6-9a59-470e-8acc-fd5fe4fda5b3.jpg?1651655658",
+    "image_large": "https://cards.scryfall.io/large/front/8/7/871279e6-9a59-470e-8acc-fd5fe4fda5b3.jpg?1651655658"
+  },
+  "bolas's citadel": {
+    "name": "Bolas's Citadel",
+    "scryfall_uri": "https://scryfall.com/card/war/79/bolass-citadel?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/2/d2124603-d20e-40eb-97f0-a66323397ac2.jpg?1591205069",
+    "image_large": "https://cards.scryfall.io/large/front/d/2/d2124603-d20e-40eb-97f0-a66323397ac2.jpg?1591205069"
+  },
+  "greasefang, okiba boss": {
+    "name": "Greasefang, Okiba Boss",
+    "scryfall_uri": "https://scryfall.com/card/neo/220/greasefang-okiba-boss?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/56a0d43b-4d38-40a7-be6c-8324ab3bf773.jpg?1654568449",
+    "image_large": "https://cards.scryfall.io/large/front/5/6/56a0d43b-4d38-40a7-be6c-8324ab3bf773.jpg?1654568449"
+  },
+  "k'rrik, son of yawgmoth": {
+    "name": "K'rrik, Son of Yawgmoth",
+    "scryfall_uri": "https://scryfall.com/card/mh3/274/krrik-son-of-yawgmoth?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/f/4f087b1c-97e0-4379-a94d-beac53685314.jpg?1717013624",
+    "image_large": "https://cards.scryfall.io/large/front/4/f/4f087b1c-97e0-4379-a94d-beac53685314.jpg?1717013624"
+  },
+  "eerie ultimatum": {
+    "name": "Eerie Ultimatum",
+    "scryfall_uri": "https://scryfall.com/card/iko/184/eerie-ultimatum?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/a/3a9fb2db-228f-4d48-acdf-6330baf356c7.jpg?1591227996",
+    "image_large": "https://cards.scryfall.io/large/front/3/a/3a9fb2db-228f-4d48-acdf-6330baf356c7.jpg?1591227996"
+  },
+  "cruel ultimatum": {
+    "name": "Cruel Ultimatum",
+    "scryfall_uri": "https://scryfall.com/card/e01/82/cruel-ultimatum?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/7/d71a8ea5-199e-473e-a2b1-e2f7cc804ffc.jpg?1592765938",
+    "image_large": "https://cards.scryfall.io/large/front/d/7/d71a8ea5-199e-473e-a2b1-e2f7cc804ffc.jpg?1592765938"
+  },
+  "nicol bolas, dragon-god": {
+    "name": "Nicol Bolas, Dragon-God",
+    "scryfall_uri": "https://scryfall.com/card/rvr/205/nicol-bolas-dragon-god?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/5/c5408607-af8f-48fe-bc40-32828d1976de.jpg?1702429680",
+    "image_large": "https://cards.scryfall.io/large/front/c/5/c5408607-af8f-48fe-bc40-32828d1976de.jpg?1702429680"
+  },
+  "ruinous ultimatum": {
+    "name": "Ruinous Ultimatum",
+    "scryfall_uri": "https://scryfall.com/card/iko/204/ruinous-ultimatum?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1681500691",
+    "image_large": "https://cards.scryfall.io/large/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1681500691"
+  },
+  "emergent ultimatum": {
+    "name": "Emergent Ultimatum",
+    "scryfall_uri": "https://scryfall.com/card/iko/185/emergent-ultimatum?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007",
+    "image_large": "https://cards.scryfall.io/large/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007"
+  },
+  "brilliant ultimatum": {
+    "name": "Brilliant Ultimatum",
+    "scryfall_uri": "https://scryfall.com/card/ala/159/brilliant-ultimatum?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/9/593409fd-26ef-463e-9101-ec5ad53dfd67.jpg?1562704267",
+    "image_large": "https://cards.scryfall.io/large/front/5/9/593409fd-26ef-463e-9101-ec5ad53dfd67.jpg?1562704267"
+  },
+  "stormscape master": {
+    "name": "Stormscape Master",
+    "scryfall_uri": "https://scryfall.com/card/inv/76/stormscape-master?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/b/9b704165-4587-48f1-8830-c5a07ec666cc.jpg?1562926376",
+    "image_large": "https://cards.scryfall.io/large/front/9/b/9b704165-4587-48f1-8830-c5a07ec666cc.jpg?1562926376"
+  },
+  "tsabo tavoc": {
+    "name": "Tsabo Tavoc",
+    "scryfall_uri": "https://scryfall.com/card/inv/281/tsabo-tavoc?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/c/ccbe2539-7a7c-468b-a270-7ca1bdcccb1e.jpg?1562936149",
+    "image_large": "https://cards.scryfall.io/large/front/c/c/ccbe2539-7a7c-468b-a270-7ca1bdcccb1e.jpg?1562936149"
+  },
+  "olivia voldaren": {
+    "name": "Olivia Voldaren",
+    "scryfall_uri": "https://scryfall.com/card/inr/246/olivia-voldaren?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/561d616c-df11-4144-acec-f9fe47efa5c7.jpg?1736468539",
+    "image_large": "https://cards.scryfall.io/large/front/5/6/561d616c-df11-4144-acec-f9fe47efa5c7.jpg?1736468539"
+  },
+  "frodo, sauron's bane": {
+    "name": "Frodo, Sauron's Bane",
+    "scryfall_uri": "https://scryfall.com/card/ltr/18/frodo-saurons-bane?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/d/7d86dc2e-6f0c-4714-9d30-5d099d3b895c.jpg?1686967812",
+    "image_large": "https://cards.scryfall.io/large/front/7/d/7d86dc2e-6f0c-4714-9d30-5d099d3b895c.jpg?1686967812"
+  },
+  "blood celebrant": {
+    "name": "Blood Celebrant",
+    "scryfall_uri": "https://scryfall.com/card/lgn/61/blood-celebrant?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/0/805de325-6f14-4a52-bb85-f9a9545d82a4.jpg?1562920849",
+    "image_large": "https://cards.scryfall.io/large/front/8/0/805de325-6f14-4a52-bb85-f9a9545d82a4.jpg?1562920849"
+  },
+  "children of korlis": {
+    "name": "Children of Korlis",
+    "scryfall_uri": "https://scryfall.com/card/tsr/14/children-of-korlis?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/a/1a6cbece-f9d8-4c40-b72b-dfdb86430ff2.jpg?1619392791",
+    "image_large": "https://cards.scryfall.io/large/front/1/a/1a6cbece-f9d8-4c40-b72b-dfdb86430ff2.jpg?1619392791"
+  },
+  "tainted sigil": {
+    "name": "Tainted Sigil",
+    "scryfall_uri": "https://scryfall.com/card/arb/83/tainted-sigil?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/b/abcf3694-d6b0-459d-8c3a-1532237b487a.jpg?1562643530",
+    "image_large": "https://cards.scryfall.io/large/front/a/b/abcf3694-d6b0-459d-8c3a-1532237b487a.jpg?1562643530"
+  },
+  "willowdusk, essence seer": {
+    "name": "Willowdusk, Essence Seer",
+    "scryfall_uri": "https://scryfall.com/card/c21/6/willowdusk-essence-seer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/2/42a97ec1-f613-49a5-9236-7fded1a81f3b.jpg?1674185804",
+    "image_large": "https://cards.scryfall.io/large/front/4/2/42a97ec1-f613-49a5-9236-7fded1a81f3b.jpg?1674185804"
+  },
+  "greven, predator captain": {
+    "name": "Greven, Predator Captain",
+    "scryfall_uri": "https://scryfall.com/card/c19/43/greven-predator-captain?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/d/bda22fc3-31a5-451a-9a8b-372884f7bc61.jpg?1568003680",
+    "image_large": "https://cards.scryfall.io/large/front/b/d/bda22fc3-31a5-451a-9a8b-372884f7bc61.jpg?1568003680"
+  },
+  "rowan, scion of war": {
+    "name": "Rowan, Scion of War",
+    "scryfall_uri": "https://scryfall.com/card/woe/211/rowan-scion-of-war?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/e/4ee179ab-a15b-4bd6-b7f8-1e1abeeb31b7.jpg?1692939409",
+    "image_large": "https://cards.scryfall.io/large/front/4/e/4ee179ab-a15b-4bd6-b7f8-1e1abeeb31b7.jpg?1692939409"
+  },
+  "shirei, shizo's caretaker": {
+    "name": "Shirei, Shizo's Caretaker",
+    "scryfall_uri": "https://scryfall.com/card/cmm/186/shirei-shizos-caretaker?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/9/69848ec1-dba7-419f-a5f9-f934bebeeaa6.jpg?1689997454",
+    "image_large": "https://cards.scryfall.io/large/front/6/9/69848ec1-dba7-419f-a5f9-f934bebeeaa6.jpg?1689997454"
+  },
+  "sakura-tribe elder": {
+    "name": "Sakura-Tribe Elder",
+    "scryfall_uri": "https://scryfall.com/card/tdc/266/sakura-tribe-elder?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/6/d619aece-7eab-40f3-8f41-970065f0dc73.jpg?1743206988",
+    "image_large": "https://cards.scryfall.io/large/front/d/6/d619aece-7eab-40f3-8f41-970065f0dc73.jpg?1743206988"
+  },
+  "wood elves": {
+    "name": "Wood Elves",
+    "scryfall_uri": "https://scryfall.com/card/moc/316/wood-elves?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/2/527cf39d-29d1-4c19-9c49-ebf611ca15d5.jpg?1682209656",
+    "image_large": "https://cards.scryfall.io/large/front/5/2/527cf39d-29d1-4c19-9c49-ebf611ca15d5.jpg?1682209656"
+  },
+  "wild cantor": {
+    "name": "Wild Cantor",
+    "scryfall_uri": "https://scryfall.com/card/rvr/239/wild-cantor?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/6/e6b56946-a368-4cd7-9d35-be14afca935b.jpg?1702429739",
+    "image_large": "https://cards.scryfall.io/large/front/e/6/e6b56946-a368-4cd7-9d35-be14afca935b.jpg?1702429739"
+  },
+  "impulsive pilferer": {
+    "name": "Impulsive Pilferer",
+    "scryfall_uri": "https://scryfall.com/card/otc/171/impulsive-pilferer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/f/0f020359-5ad1-43c4-8588-172be635cccc.jpg?1712354458",
+    "image_large": "https://cards.scryfall.io/large/front/0/f/0f020359-5ad1-43c4-8588-172be635cccc.jpg?1712354458"
+  },
+  "farhaven elf": {
+    "name": "Farhaven Elf",
+    "scryfall_uri": "https://scryfall.com/card/khc/62/farhaven-elf?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/2/320d0a4c-c556-4468-b934-bfdf17961a53.jpg?1631234906",
+    "image_large": "https://cards.scryfall.io/large/front/3/2/320d0a4c-c556-4468-b934-bfdf17961a53.jpg?1631234906"
+  },
+  "cloud of faeries": {
+    "name": "Cloud of Faeries",
+    "scryfall_uri": "https://scryfall.com/card/moc/219/cloud-of-faeries?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/3/03aff125-8962-4a0a-a2b4-e5d693b75400.jpg?1682208732",
+    "image_large": "https://cards.scryfall.io/large/front/0/3/03aff125-8962-4a0a-a2b4-e5d693b75400.jpg?1682208732"
+  },
+  "aftermath analyst": {
+    "name": "Aftermath Analyst",
+    "scryfall_uri": "https://scryfall.com/card/eoc/91/aftermath-analyst?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/6/66f135b4-8cb3-4a4e-86ae-81a3cf4b7259.jpg?1752944758",
+    "image_large": "https://cards.scryfall.io/large/front/6/6/66f135b4-8cb3-4a4e-86ae-81a3cf4b7259.jpg?1752944758"
+  },
+  "haywire mite": {
+    "name": "Haywire Mite",
+    "scryfall_uri": "https://scryfall.com/card/dsc/247/haywire-mite?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/8/286f4d3a-6b38-404f-aaea-a1d3694f4fe6.jpg?1726285305",
+    "image_large": "https://cards.scryfall.io/large/front/2/8/286f4d3a-6b38-404f-aaea-a1d3694f4fe6.jpg?1726285305"
+  },
+  "caustic caterpillar": {
+    "name": "Caustic Caterpillar",
+    "scryfall_uri": "https://scryfall.com/card/ori/170/caustic-caterpillar?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/0/f03d4e0d-bddd-4835-91b8-11c2f15e54c3.jpg?1562048838",
+    "image_large": "https://cards.scryfall.io/large/front/f/0/f03d4e0d-bddd-4835-91b8-11c2f15e54c3.jpg?1562048838"
+  },
+  "judge's familiar": {
+    "name": "Judge's Familiar",
+    "scryfall_uri": "https://scryfall.com/card/rvr/192/judges-familiar?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/d/ed363208-cf66-4205-8512-b999b67227d3.jpg?1702717429",
+    "image_large": "https://cards.scryfall.io/large/front/e/d/ed363208-cf66-4205-8512-b999b67227d3.jpg?1702717429"
+  },
+  "glen elendra archmage": {
+    "name": "Glen Elendra Archmage",
+    "scryfall_uri": "https://scryfall.com/card/uma/58/glen-elendra-archmage?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/d/bd9af767-42da-46c7-a2b8-3957b2e3063f.jpg?1547516310",
+    "image_large": "https://cards.scryfall.io/large/front/b/d/bd9af767-42da-46c7-a2b8-3957b2e3063f.jpg?1547516310"
+  },
+  "cursecatcher": {
+    "name": "Cursecatcher",
+    "scryfall_uri": "https://scryfall.com/card/a25/53/cursecatcher?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/2/d257a3c9-443f-4899-badc-f075a14667c5.jpg?1562441608",
+    "image_large": "https://cards.scryfall.io/large/front/d/2/d257a3c9-443f-4899-badc-f075a14667c5.jpg?1562441608"
+  },
+  "siren stormtamer": {
+    "name": "Siren Stormtamer",
+    "scryfall_uri": "https://scryfall.com/card/lcc/171/siren-stormtamer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/7/073c301e-5bb6-49fa-bf61-2f662030540f.jpg?1698988187",
+    "image_large": "https://cards.scryfall.io/large/front/0/7/073c301e-5bb6-49fa-bf61-2f662030540f.jpg?1698988187"
+  },
+  "kami of false hope": {
+    "name": "Kami of False Hope",
+    "scryfall_uri": "https://scryfall.com/card/bok/10/kami-of-false-hope?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/4/44e4f5e6-935e-429f-89b4-4571376f442e.jpg?1562876719",
+    "image_large": "https://cards.scryfall.io/large/front/4/4/44e4f5e6-935e-429f-89b4-4571376f442e.jpg?1562876719"
+  },
+  "selfless savior": {
+    "name": "Selfless Savior",
+    "scryfall_uri": "https://scryfall.com/card/m21/36/selfless-savior?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1594735224",
+    "image_large": "https://cards.scryfall.io/large/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1594735224"
+  },
+  "alseid of life's bounty": {
+    "name": "Alseid of Life's Bounty",
+    "scryfall_uri": "https://scryfall.com/card/thb/1/alseid-of-lifes-bounty?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926",
+    "image_large": "https://cards.scryfall.io/large/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926"
+  },
+  "mogg fanatic": {
+    "name": "Mogg Fanatic",
+    "scryfall_uri": "https://scryfall.com/card/ema/138/mogg-fanatic?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/4/d479ca28-bdc2-4b87-abf7-5aeb229a3f1e.jpg?1580014589",
+    "image_large": "https://cards.scryfall.io/large/front/d/4/d479ca28-bdc2-4b87-abf7-5aeb229a3f1e.jpg?1580014589"
+  },
+  "fanatical firebrand": {
+    "name": "Fanatical Firebrand",
+    "scryfall_uri": "https://scryfall.com/card/fdn/195/fanatical-firebrand?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/1/d1296316-7781-4e98-95e6-7020648be6a5.jpg?1730489321",
+    "image_large": "https://cards.scryfall.io/large/front/d/1/d1296316-7781-4e98-95e6-7020648be6a5.jpg?1730489321"
+  },
+  "frostling": {
+    "name": "Frostling",
+    "scryfall_uri": "https://scryfall.com/card/bok/103/frostling?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/3/53bb08f9-355d-443e-8f08-a20ef7322e78.jpg?1562877064",
+    "image_large": "https://cards.scryfall.io/large/front/5/3/53bb08f9-355d-443e-8f08-a20ef7322e78.jpg?1562877064"
+  },
+  "bloodfire dwarf": {
+    "name": "Bloodfire Dwarf",
+    "scryfall_uri": "https://scryfall.com/card/apc/56/bloodfire-dwarf?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/6/86b5c38e-7d74-4862-8187-f5db4a3d1e0f.jpg?1562926762",
+    "image_large": "https://cards.scryfall.io/large/front/8/6/86b5c38e-7d74-4862-8187-f5db4a3d1e0f.jpg?1562926762"
+  },
+  "baleful strix": {
+    "name": "Baleful Strix",
+    "scryfall_uri": "https://scryfall.com/card/otc/215/baleful-strix?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/e/be8439e6-f779-49f0-806a-b04995697a6a.jpg?1712354664",
+    "image_large": "https://cards.scryfall.io/large/front/b/e/be8439e6-f779-49f0-806a-b04995697a6a.jpg?1712354664"
+  },
+  "spirited companion": {
+    "name": "Spirited Companion",
+    "scryfall_uri": "https://scryfall.com/card/cmm/838/spirited-companion?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/e/7e038684-c476-41db-a1b1-57c46e5b4c9a.jpg?1690004251",
+    "image_large": "https://cards.scryfall.io/large/front/7/e/7e038684-c476-41db-a1b1-57c46e5b4c9a.jpg?1690004251"
+  },
+  "coiling oracle": {
+    "name": "Coiling Oracle",
+    "scryfall_uri": "https://scryfall.com/card/rvr/172/coiling-oracle?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/5/559ff1b1-018c-4e08-9531-8af20af47d05.jpg?1702429613",
+    "image_large": "https://cards.scryfall.io/large/front/5/5/559ff1b1-018c-4e08-9531-8af20af47d05.jpg?1702429613"
+  },
+  "mogg war marshal": {
+    "name": "Mogg War Marshal",
+    "scryfall_uri": "https://scryfall.com/card/dmr/131/mogg-war-marshal?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/7/a7f7f39c-94a0-4ccb-b658-23095ada4005.jpg?1675200106",
+    "image_large": "https://cards.scryfall.io/large/front/a/7/a7f7f39c-94a0-4ccb-b658-23095ada4005.jpg?1675200106"
+  },
+  "blisterpod": {
+    "name": "Blisterpod",
+    "scryfall_uri": "https://scryfall.com/card/bfz/163/blisterpod?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/1/e16f1803-634a-41b0-ae21-484d6f914a0d.jpg?1562948630",
+    "image_large": "https://cards.scryfall.io/large/front/e/1/e16f1803-634a-41b0-ae21-484d6f914a0d.jpg?1562948630"
+  },
+  "doomed traveler": {
+    "name": "Doomed Traveler",
+    "scryfall_uri": "https://scryfall.com/card/clu/59/doomed-traveler?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/a/8a03d414-bff9-4aba-8b0a-0ed57982251e.jpg?1706239725",
+    "image_large": "https://cards.scryfall.io/large/front/8/a/8a03d414-bff9-4aba-8b0a-0ed57982251e.jpg?1706239725"
+  },
+  "deep forest hermit": {
+    "name": "Deep Forest Hermit",
+    "scryfall_uri": "https://scryfall.com/card/mh1/161/deep-forest-hermit?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1562202056",
+    "image_large": "https://cards.scryfall.io/large/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1562202056"
+  },
+  "deranged hermit": {
+    "name": "Deranged Hermit",
+    "scryfall_uri": "https://scryfall.com/card/vma/202/deranged-hermit?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.jpg?1562934031",
+    "image_large": "https://cards.scryfall.io/large/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.jpg?1562934031"
+  },
+  "soul warden": {
+    "name": "Soul Warden",
+    "scryfall_uri": "https://scryfall.com/card/mm3/24/soul-warden?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/9/d96266b3-a7cb-40ce-a328-ac13719fe5f0.jpg?1616182277",
+    "image_large": "https://cards.scryfall.io/large/front/d/9/d96266b3-a7cb-40ce-a328-ac13719fe5f0.jpg?1616182277"
+  },
+  "prosperous innkeeper": {
+    "name": "Prosperous Innkeeper",
+    "scryfall_uri": "https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1627708190",
+    "image_large": "https://cards.scryfall.io/large/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1627708190"
+  },
+  "cruel celebrant": {
+    "name": "Cruel Celebrant",
+    "scryfall_uri": "https://scryfall.com/card/lcc/267/cruel-celebrant?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/3/b3f8be99-a398-4664-beb6-3e98d6e62a32.jpg?1698988424",
+    "image_large": "https://cards.scryfall.io/large/front/b/3/b3f8be99-a398-4664-beb6-3e98d6e62a32.jpg?1698988424"
+  },
+  "blood artist": {
+    "name": "Blood Artist",
+    "scryfall_uri": "https://scryfall.com/card/inr/97/blood-artist?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/3/036f387a-8dee-482e-b3e3-cf79b54c61e1.jpg?1736467880",
+    "image_large": "https://cards.scryfall.io/large/front/0/3/036f387a-8dee-482e-b3e3-cf79b54c61e1.jpg?1736467880"
+  },
+  "zulaport cutthroat": {
+    "name": "Zulaport Cutthroat",
+    "scryfall_uri": "https://scryfall.com/card/clb/775/zulaport-cutthroat?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/2/52ef00c1-613a-4cbd-8972-77c41f649431.jpg?1674141830",
+    "image_large": "https://cards.scryfall.io/large/front/5/2/52ef00c1-613a-4cbd-8972-77c41f649431.jpg?1674141830"
+  },
+  "moldervine reclamation": {
+    "name": "Moldervine Reclamation",
+    "scryfall_uri": "https://scryfall.com/card/c21/225/moldervine-reclamation?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/4/34c282d0-fe83-4ced-b696-cf0e2c6b13d0.jpg?1625977926",
+    "image_large": "https://cards.scryfall.io/large/front/3/4/34c282d0-fe83-4ced-b696-cf0e2c6b13d0.jpg?1625977926"
+  },
+  "krenko, mob boss": {
+    "name": "Krenko, Mob Boss",
+    "scryfall_uri": "https://scryfall.com/card/fdn/204/krenko-mob-boss?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1730632010",
+    "image_large": "https://cards.scryfall.io/large/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1730632010"
+  },
+  "goblin anarchomancer": {
+    "name": "Goblin Anarchomancer",
+    "scryfall_uri": "https://scryfall.com/card/mh2/200/goblin-anarchomancer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/633a3423-501d-4b22-95a6-743233be521e.jpg?1626098429",
+    "image_large": "https://cards.scryfall.io/large/front/6/3/633a3423-501d-4b22-95a6-743233be521e.jpg?1626098429"
+  },
+  "frogtosser banneret": {
+    "name": "Frogtosser Banneret",
+    "scryfall_uri": "https://scryfall.com/card/znc/43/frogtosser-banneret?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/e/bec81e20-b644-421a-9c93-5a3dc52eb88b.jpg?1604193140",
+    "image_large": "https://cards.scryfall.io/large/front/b/e/bec81e20-b644-421a-9c93-5a3dc52eb88b.jpg?1604193140"
+  },
+  "warren soultrader": {
+    "name": "Warren Soultrader",
+    "scryfall_uri": "https://scryfall.com/card/mh3/110/warren-soultrader?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/3/b334e4c6-d316-4141-8889-f95afcc04701.jpg?1717012094",
+    "image_large": "https://cards.scryfall.io/large/front/b/3/b334e4c6-d316-4141-8889-f95afcc04701.jpg?1717012094"
+  },
+  "skirk prospector": {
+    "name": "Skirk Prospector",
+    "scryfall_uri": "https://scryfall.com/card/dmr/137/skirk-prospector?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/b/7bc508b3-8b38-4cf0-89a7-a2cb247ed083.jpg?1675200167",
+    "image_large": "https://cards.scryfall.io/large/front/7/b/7bc508b3-8b38-4cf0-89a7-a2cb247ed083.jpg?1675200167"
+  },
+  "sling-gang lieutenant": {
+    "name": "Sling-Gang Lieutenant",
+    "scryfall_uri": "https://scryfall.com/card/h2r/8/sling-gang-lieutenant?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/4/b419c3d8-0ea5-4a78-a647-b7e16c7f7ec5.jpg?1753786930",
+    "image_large": "https://cards.scryfall.io/large/front/b/4/b419c3d8-0ea5-4a78-a647-b7e16c7f7ec5.jpg?1753786930"
+  },
+  "grumgully, the generous": {
+    "name": "Grumgully, the Generous",
+    "scryfall_uri": "https://scryfall.com/card/clb/847/grumgully-the-generous?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/a/3aa40ce2-76df-43bd-a59e-7cf6e4f46a1d.jpg?1674142476",
+    "image_large": "https://cards.scryfall.io/large/front/3/a/3aa40ce2-76df-43bd-a59e-7cf6e4f46a1d.jpg?1674142476"
+  },
+  "ankle shanker": {
+    "name": "Ankle Shanker",
+    "scryfall_uri": "https://scryfall.com/card/c16/178/ankle-shanker?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/4/544a06f8-75fe-41b6-81dc-c9a0358f03c5.jpg?1562400164",
+    "image_large": "https://cards.scryfall.io/large/front/5/4/544a06f8-75fe-41b6-81dc-c9a0358f03c5.jpg?1562400164"
+  },
+  "murderous redcap": {
+    "name": "Murderous Redcap",
+    "scryfall_uri": "https://scryfall.com/card/uma/217/murderous-redcap?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/c/acadf575-2076-4f0c-b66e-994898adf375.jpg?1547518234",
+    "image_large": "https://cards.scryfall.io/large/front/a/c/acadf575-2076-4f0c-b66e-994898adf375.jpg?1547518234"
+  },
+  "vexing shusher": {
+    "name": "Vexing Shusher",
+    "scryfall_uri": "https://scryfall.com/card/2xm/225/vexing-shusher?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/e/7e0acfb7-c2d9-4b94-9ac6-9374856abad1.jpg?1599708540",
+    "image_large": "https://cards.scryfall.io/large/front/7/e/7e0acfb7-c2d9-4b94-9ac6-9374856abad1.jpg?1599708540"
+  },
+  "vial smasher the fierce": {
+    "name": "Vial Smasher the Fierce",
+    "scryfall_uri": "https://scryfall.com/card/dsc/239/vial-smasher-the-fierce?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/c/cc7be939-2202-40fe-8899-a05682d76190.jpg?1726285276",
+    "image_large": "https://cards.scryfall.io/large/front/c/c/cc7be939-2202-40fe-8899-a05682d76190.jpg?1726285276"
+  },
+  "plargg and nassari": {
+    "name": "Plargg and Nassari",
+    "scryfall_uri": "https://scryfall.com/card/mat/18/plargg-and-nassari?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/7/179a0525-a142-46f6-9b5b-06a2fbb25556.jpg?1684340598",
+    "image_large": "https://cards.scryfall.io/large/front/1/7/179a0525-a142-46f6-9b5b-06a2fbb25556.jpg?1684340598"
+  },
+  "prosper, tome-bound": {
+    "name": "Prosper, Tome-Bound",
+    "scryfall_uri": "https://scryfall.com/card/afc/2/prosper-tome-bound?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/7/d743336e-d5c7-4053-a23d-92ec7581f74e.jpg?1631839207",
+    "image_large": "https://cards.scryfall.io/large/front/d/7/d743336e-d5c7-4053-a23d-92ec7581f74e.jpg?1631839207"
+  },
+  "faldorn, dread wolf herald": {
+    "name": "Faldorn, Dread Wolf Herald",
+    "scryfall_uri": "https://scryfall.com/card/clb/647/faldorn-dread-wolf-herald?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/1/213e530e-33a9-4358-b43b-4a276a7e7190.jpg?1674140675",
+    "image_large": "https://cards.scryfall.io/large/front/2/1/213e530e-33a9-4358-b43b-4a276a7e7190.jpg?1674140675"
+  },
+  "the war doctor": {
+    "name": "The War Doctor",
+    "scryfall_uri": "https://scryfall.com/card/who/167/the-war-doctor?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/a/7a51472c-b61f-4d31-8753-a9ec90d12889.jpg?1696636782",
+    "image_large": "https://cards.scryfall.io/large/front/7/a/7a51472c-b61f-4d31-8753-a9ec90d12889.jpg?1696636782"
+  },
+  "etali, primal conqueror": {
+    "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
+    "scryfall_uri": "https://scryfall.com/card/mom/137/etali-primal-conqueror-etali-primal-sickness?utm_source=api",
+    "image_normal": null,
+    "image_large": null
+  },
+  "gonti, lord of luxury": {
+    "name": "Gonti, Lord of Luxury",
+    "scryfall_uri": "https://scryfall.com/card/otc/135/gonti-lord-of-luxury?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/b/fbbb3aef-af1f-4b77-b7d6-64cfd706a9d9.jpg?1712393017",
+    "image_large": "https://cards.scryfall.io/large/front/f/b/fbbb3aef-af1f-4b77-b7d6-64cfd706a9d9.jpg?1712393017"
+  },
+  "villainous wealth": {
+    "name": "Villainous Wealth",
+    "scryfall_uri": "https://scryfall.com/card/otc/249/villainous-wealth?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811",
+    "image_large": "https://cards.scryfall.io/large/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811"
+  },
+  "thief of sanity": {
+    "name": "Thief of Sanity",
+    "scryfall_uri": "https://scryfall.com/card/otc/243/thief-of-sanity?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/4/94946d6c-1edb-46e9-a5ae-0ca2a016a7cd.jpg?1712354786",
+    "image_large": "https://cards.scryfall.io/large/front/9/4/94946d6c-1edb-46e9-a5ae-0ca2a016a7cd.jpg?1712354786"
+  },
+  "fynn, the fangbearer": {
+    "name": "Fynn, the Fangbearer",
+    "scryfall_uri": "https://scryfall.com/card/fdn/637/fynn-the-fangbearer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/9/699efb9e-2649-432b-8b2d-10775114c314.jpg?1730491013",
+    "image_large": "https://cards.scryfall.io/large/front/6/9/699efb9e-2649-432b-8b2d-10775114c314.jpg?1730491013"
+  },
+  "vampire nighthawk": {
+    "name": "Vampire Nighthawk",
+    "scryfall_uri": "https://scryfall.com/card/fdn/186/vampire-nighthawk?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/a/0a1934ab-3171-4fc6-8033-ad998899ba73.jpg?1730489287",
+    "image_large": "https://cards.scryfall.io/large/front/0/a/0a1934ab-3171-4fc6-8033-ad998899ba73.jpg?1730489287"
+  },
+  "venomthrope": {
+    "name": "Venomthrope",
+    "scryfall_uri": "https://scryfall.com/card/40k/147/venomthrope?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/2/e2284a8a-caf3-4eef-8cd2-6b2f507e7154.jpg?1673309581",
+    "image_large": "https://cards.scryfall.io/large/front/e/2/e2284a8a-caf3-4eef-8cd2-6b2f507e7154.jpg?1673309581"
+  },
+  "ice-fang coatl": {
+    "name": "Ice-Fang Coatl",
+    "scryfall_uri": "https://scryfall.com/card/mh1/203/ice-fang-coatl?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/a/6a55cfed-e76c-4ade-ac78-a546e05fe8da.jpg?1562202341",
+    "image_large": "https://cards.scryfall.io/large/front/6/a/6a55cfed-e76c-4ade-ac78-a546e05fe8da.jpg?1562202341"
+  },
+  "ophiomancer": {
+    "name": "Ophiomancer",
+    "scryfall_uri": "https://scryfall.com/card/tdc/193/ophiomancer?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/d/7da2511d-f5ae-4c51-a9b2-dffd581243b6.jpg?1743206570",
+    "image_large": "https://cards.scryfall.io/large/front/7/d/7da2511d-f5ae-4c51-a9b2-dffd581243b6.jpg?1743206570"
+  },
+  "vault of the archangel": {
+    "name": "Vault of the Archangel",
+    "scryfall_uri": "https://scryfall.com/card/tdc/410/vault-of-the-archangel?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/f/8f203f04-bd73-4d88-bb5e-aab63507dbd1.jpg?1743207804",
+    "image_large": "https://cards.scryfall.io/large/front/8/f/8f203f04-bd73-4d88-bb5e-aab63507dbd1.jpg?1743207804"
+  }
+}
