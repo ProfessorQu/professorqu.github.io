@@ -66,18 +66,6 @@ module Jekyll
         "#{card["name"]}" \
         "<img src='#{card["image_normal"]}' class='card-img' alt=\"#{card["name"]}\">" \
       "</a>"
-      # sleep(0.1)
-      # uri = URI("https://api.scryfall.com/cards/named?exact=#{@card_name}")
-      # res = Net::HTTP.get_response(uri)
-      # if res.is_a?(Net::HTTPSuccess)
-      #   json_resp = JSON.parse(res.body)
-      #   url = json_resp['scryfall_uri']
-      #   img_url = json_resp['image_uris']['normal']
-
-      #   "<a class='card-link' href='#{url}'>#{@card_name}<img src='#{img_url}' class='card-img' alt=\"#{@card_name}\"></a>"
-      # else
-      #   raise "Card not found: #{@card_name}"
-      # end
     end
   end
 
@@ -87,23 +75,6 @@ module Jekyll
 
       cards = super.strip.split('!').drop(1)
 
-      # cards.each { |card|
-      #   name = card.match(/\[(.*)\]/).captures.first
-
-      #   uri = URI("https://api.scryfall.com/cards/named?exact=#{name}")
-      #   res = Net::HTTP.get_response(uri)
-
-      #   if res.is_a?(Net::HTTPSuccess)
-      #     json_resp = JSON.parse(res.body)
-      #     if json_resp
-      #       img_url = json_resp['image_uris']['large']
-      #     end
-      #   else
-      #     img_url = card.clone.match(/\((.*)\)/).captures.first
-      #   end
-
-      #   content += "<img src='#{img_url}' alt=\"#{name}\" class='card-img' loading='lazy'>"
-      # }
       cards.each do |card|
         name = card.match(/\[(.*)\]/).captures.first
         data = CardCache.fetch(name)
