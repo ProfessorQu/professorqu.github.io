@@ -4,6 +4,7 @@ categories:
 - Magic the Gathering
 tags:
 - Magic the Gathering
+- Commander
 description: An analysis of some commanders if the color identity rule didn't exist.
 image:
   path: "/assets/img/posts/commander-without-color-identities/preview.jpg"
