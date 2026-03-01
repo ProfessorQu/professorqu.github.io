@@ -1289,12 +1289,6 @@
     "image_normal": "https://cards.scryfall.io/normal/front/7/a/7a51472c-b61f-4d31-8753-a9ec90d12889.jpg?1696636782",
     "image_large": "https://cards.scryfall.io/large/front/7/a/7a51472c-b61f-4d31-8753-a9ec90d12889.jpg?1696636782"
   },
-  "etali, primal conqueror": {
-    "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
-    "scryfall_uri": "https://scryfall.com/card/mom/137/etali-primal-conqueror-etali-primal-sickness?utm_source=api",
-    "image_normal": null,
-    "image_large": null
-  },
   "gonti, lord of luxury": {
     "name": "Gonti, Lord of Luxury",
     "scryfall_uri": "https://scryfall.com/card/otc/135/gonti-lord-of-luxury?utm_source=api",
@@ -1348,5 +1342,11 @@
     "scryfall_uri": "https://scryfall.com/card/tdc/410/vault-of-the-archangel?utm_source=api",
     "image_normal": "https://cards.scryfall.io/normal/front/8/f/8f203f04-bd73-4d88-bb5e-aab63507dbd1.jpg?1743207804",
     "image_large": "https://cards.scryfall.io/large/front/8/f/8f203f04-bd73-4d88-bb5e-aab63507dbd1.jpg?1743207804"
+  },
+  "etali, primal conqueror": {
+    "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
+    "scryfall_uri": "https://scryfall.com/card/mom/137/etali-primal-conqueror-etali-primal-sickness?utm_source=api",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/5/95c14c4d-6c16-4826-8d93-d89ad04aee09.jpg?1739657577",
+    "image_large": "https://cards.scryfall.io/large/front/9/5/95c14c4d-6c16-4826-8d93-d89ad04aee09.jpg?1739657577"
   }
 }

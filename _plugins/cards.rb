@@ -41,11 +41,19 @@ module Jekyll
 
       json = JSON.parse(res.body)
 
+      image_normal = json.dig("image_uris", "normal")
+      image_large = json.dig("image_uris", "large")
+
+      if image_normal == nil then
+        image_normal = json.dig("card_faces", 0, "image_uris", "normal")
+        image_large = json.dig("card_faces", 0, "image_uris", "large")
+      end
+
       cache[key] = {
         "name" => json["name"],
         "scryfall_uri" => json["scryfall_uri"],
-        "image_normal" => json.dig("image_uris", "normal"),
-        "image_large"  => json.dig("image_uris", "large")
+        "image_normal" => image_normal,
+        "image_large"  => image_large
       }
 
       save(cache)
@@ -78,6 +86,8 @@ module Jekyll
       cards.each do |card|
         name = card.match(/\[(.*)\]/).captures.first
         data = CardCache.fetch(name)
+
+        puts data
 
         content += "<img src='#{data["image_large"]}' alt=\"#{name}\" class='card-img' loading='lazy'>"
       end
