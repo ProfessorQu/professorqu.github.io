@@ -87,8 +87,6 @@ module Jekyll
         name = card.match(/\[(.*)\]/).captures.first
         data = CardCache.fetch(name)
 
-        puts data
-
         content += "<img src='#{data["image_large"]}' alt=\"#{name}\" class='card-img' loading='lazy'>"
       end
 
